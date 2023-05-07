@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+    <uses-permission
+        android:name="android.permission.WRITE_SETTINGS"
+        tools:ignore="ProtectedPermissions" />
+    <uses-permission
+        android:name="android.permission.QUERY_ALL_PACKAGES"
+        tools:ignore="QueryAllPackagesPermission" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission
+        android:name="android.permission.MANAGE_EXTERNAL_STORAGE"
+        tools:ignore="ScopedStorage" />
+
+    <uses-feature
+        android:name="android.software.leanback"
+        android:required="false" />
+    <uses-feature
+        android:name="android.hardware.touchscreen"
+        android:required="false" />
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <queries>
+        <intent>
+            <action android:name="android.intent.action.OPEN_DOCUMENT" />
+
+            <data android:mimeType="*/*" />
+        </intent>
+        <intent>
+            <action android:name="android.intent.action.OPEN_DOCUMENT_TREE" />
+        </intent>
+        <intent>
+            <action android:name="android.settings.PICTURE_IN_PICTURE_SETTINGS" />
+        </intent>
+    </queries>
+
+    <uses-permission android:name="android.permission.REQUEST_INSTALL_PACKAGES" />
+    <uses-permission android:name="android.permission.REQUEST_DELETE_PACKAGES" />
+
+    <application
+        android:allowBackup="true"
+        android:dataExtractionRules="@xml/data_extraction_rules"
+        android:fullBackupContent="@xml/backup_rules"
+        android:hardwareAccelerated="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:requestLegacyExternalStorage="true"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.Utils"
+        tools:targetApi="31">
+        <activity android:name=".security_utils.SecurityUtilsActivity" />
+        <activity android:name="com.ntduc.utils.view_utils.activity.ViewUtilsActivity" />
+        <activity android:name="com.ntduc.utils.sp_utils.SpActivity" />
+        <activity android:name=".navigation_utils.activity.NavUtilsActivity" />
+        <activity android:name="com.ntduc.utils.fragment_utils.activity.FragmentUtilsActivity" />
+        <activity android:name="com.ntduc.utils.app_utils.activity.AppActivity" />
+        <activity android:name="com.tta.utlislib.Recycler_view_utils.sticky.RecyclerViewStickyActivity" />
+        <activity android:name="com.tta.utlislib.Recycler_view_utils.RecyclerUtilsActivity" />
+        <activity android:name="com.ntduc.utils.file_utils.get_all_video.activity.GetAllVideoActivity" />
+        <activity android:name="com.ntduc.utils.file_utils.get_all_image.activity.GetAllImageActivity" />
+        <activity android:name="com.ntduc.utils.file_utils.get_all_audio.activity.GetAllAudioActivity" />
+        <activity android:name="com.ntduc.utils.file_utils.get_all_file.activity.GetAllFileActivity" />
+        <activity android:name="com.ntduc.utils.file_utils.activity.FileUtilsActivity" />
+        <activity android:name="com.ntduc.utils.string_utils.StringUtilsActivity" />
+        <activity android:name="com.ntduc.utils.view_pager_2_utils.activity.ViewPager2UtilsActivity" />
+        <activity android:name="com.ntduc.utils.context_utils.ContextUtilsActivity" />
+        <activity android:name=".color_utils.ColorUtilsActivity" />
+        <activity android:name=".activity_utils.ActiUtilsActivity" />
+        <activity
+            android:name=".main.MainActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <provider
+            android:name="androidx.core.content.FileProvider"
+            android:authorities="com.ntduc.utils.provider"
+            android:exported="false"
+            android:grantUriPermissions="true">
+            <meta-data
+                android:name="android.support.FILE_PROVIDER_PATHS"
+                android:resource="@xml/paths" />
+        </provider>
+    </application>
+
+</manifest>

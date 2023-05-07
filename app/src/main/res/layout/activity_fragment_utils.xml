@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+  xmlns:app="http://schemas.android.com/apk/res-auto"
+  xmlns:tools="http://schemas.android.com/tools"
+  android:layout_width="match_parent"
+  android:layout_height="match_parent"
+  tools:context=".fragment_utils.activity.FragmentUtilsActivity">
+  
+  <androidx.constraintlayout.widget.ConstraintLayout
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+    
+    <FrameLayout
+      android:id="@+id/container"
+      android:layout_width="match_parent"
+      android:layout_height="0dp"
+      app:layout_constraintDimensionRatio="3:1"
+      app:layout_constraintTop_toTopOf="parent" />
+    
+    <LinearLayout
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content"
+      android:orientation="vertical"
+      app:layout_constraintTop_toBottomOf="@id/container">
+      
+      <TextView
+        android:id="@+id/note"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:textAllCaps="false"
+        android:textSize="18sp" />
+      
+      <Button
+        android:id="@+id/addFragment"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="addFragment"
+        android:textAllCaps="false" />
+      
+      <Button
+        android:id="@+id/replaceFragment"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="replaceFragment"
+        android:textAllCaps="false" />
+      
+      <Button
+        android:id="@+id/hideFragment"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="hideFragment"
+        android:textAllCaps="false" />
+      
+      <Button
+        android:id="@+id/showFragment"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="showFragment"
+        android:textAllCaps="false" />
+      
+      <Button
+        android:id="@+id/removeFragment"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="removeFragment"
+        android:textAllCaps="false" />
+      
+      <Button
+        android:id="@+id/popFragment"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="popFragment"
+        android:textAllCaps="false" />
+      
+      <EditText
+        android:id="@+id/nameFragment"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textAllCaps="false" />
+      
+      <Button
+        android:id="@+id/popFragmentName"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="popFragment name"
+        android:textAllCaps="false" />
+      
+      <Button
+        android:id="@+id/clearAllFragments"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="clearAllFragments"
+        android:textAllCaps="false" />
+      
+      <Button
+        android:id="@+id/currentFragment"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="currentFragment"
+        android:textAllCaps="false" />
+      
+      <Button
+        android:id="@+id/printBackStack"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="printBackStack"
+        android:textAllCaps="false" />
+    
+    </LinearLayout>
+  </androidx.constraintlayout.widget.ConstraintLayout>
+</ScrollView>

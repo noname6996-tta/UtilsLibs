@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+  xmlns:tools="http://schemas.android.com/tools"
+  android:layout_width="match_parent"
+  android:layout_height="match_parent"
+  tools:context=".main.MainActivity">
+  
+  <LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical">
+    
+    <Button
+      android:id="@+id/btn_ActivityUtils"
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content"
+      android:text="ActivityUtils"
+      android:textAllCaps="false" />
+    
+    <Button
+      android:id="@+id/btn_ContextUtils"
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content"
+      android:text="ContextUtils"
+      android:textAllCaps="false" />
+    
+    <Button
+      android:id="@+id/btn_FragmentUtils"
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content"
+      android:text="FragmentUtils"
+      android:textAllCaps="false" />
+    
+    <Button
+      android:id="@+id/btn_ViewUtils"
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content"
+      android:text="ViewUtils"
+      android:textAllCaps="false" />
+    
+    <Button
+      android:id="@+id/btn_NavigationUtils"
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content"
+      android:text="NavigationUtils"
+      android:textAllCaps="false" />
+    
+    <Button
+      android:id="@+id/btn_ColorUtils"
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content"
+      android:text="ColorUtils"
+      android:textAllCaps="false" />
+    
+    <Button
+      android:id="@+id/btn_StringUtils"
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content"
+      android:text="StringUtils"
+      android:textAllCaps="false" />
+    
+    <Button
+      android:id="@+id/btn_SPUtils"
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content"
+      android:text="SharedPreferencesUtils"
+      android:textAllCaps="false" />
+    
+    <Button
+      android:id="@+id/btn_ViewPager2Utils"
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content"
+      android:text="ViewPager2Utils"
+      android:textAllCaps="false" />
+    
+    <Button
+      android:id="@+id/btn_FileUtils"
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content"
+      android:text="FileUtils"
+      android:textAllCaps="false" />
+    
+    <Button
+      android:id="@+id/btn_SecurityUtils"
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content"
+      android:text="SecurityUtils"
+      android:textAllCaps="false" />
+    
+    <Button
+      android:id="@+id/btn_RecyclerViewUtils"
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content"
+      android:text="RecyclerViewUtils"
+      android:textAllCaps="false" />
+    
+    <Button
+      android:id="@+id/btn_AppUtils"
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content"
+      android:text="AppUtils"
+      android:textAllCaps="false" />
+  </LinearLayout>
+</ScrollView>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="permissionx_default_dialog_bg">#fff</color>
+    <color name="permissionx_split_line">#e0e0e0</color>
+    <color name="permissionx_text_color">#212121</color>
+    <color name="permissionx_tint_color">#1972e8</color>
+    <string name="permissionx_access_background_location">Background location</string>
+    <string name="permissionx_body_sensor_background">Background body sensors</string>
+    <string name="permissionx_manage_external_storage">All files access</string>
+    <string name="permissionx_post_notification">Notifications</string>
+    <string name="permissionx_request_install_packages">Install unknown apps</string>
+    <string name="permissionx_system_alert_window">Display over other apps</string>
+    <string name="permissionx_write_settings">Modify system settings</string>
+    <style name="PermissionXDefaultDialog" parent="Theme.AppCompat.DayNight.Dialog.Alert">
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:backgroundDimEnabled">true</item>
+    </style>
+</resources>

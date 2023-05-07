@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+  xmlns:app="http://schemas.android.com/apk/res-auto"
+  xmlns:tools="http://schemas.android.com/tools"
+  android:id="@+id/main_navigation"
+  app:startDestination="@id/home_dest">
+  
+  <fragment
+    android:id="@+id/home_dest"
+    android:name="com.ntduc.utils.navigation_utils.fragment.HomeFragment"
+    android:label="@string/home"
+    tools:layout="@layout/fragment_home">
+    
+    <action
+      android:id="@+id/next_action"
+      app:destination="@+id/flow_step_one_dest"
+      app:enterAnim="@anim/slide_in_right"
+      app:exitAnim="@anim/slide_out_left"
+      app:popEnterAnim="@anim/slide_in_left"
+      app:popExitAnim="@anim/slide_out_right" />
+  
+  </fragment>
+  <fragment
+    android:id="@+id/flow_step_one_dest"
+    android:name="com.ntduc.utils.navigation_utils.fragment.FlowStepFragment"
+    tools:layout="@layout/fragment_flow_step">
+    <argument
+      android:name="flowStepNumber"
+      android:defaultValue="1"
+      app:argType="integer" />
+    
+    <action
+      android:id="@+id/next_action"
+      app:destination="@+id/flow_step_two_dest"
+      app:enterAnim="@anim/slide_in_right"
+      app:exitAnim="@anim/slide_out_left"
+      app:popEnterAnim="@anim/slide_in_left"
+      app:popExitAnim="@anim/slide_out_right" />
+  </fragment>
+  <fragment
+    android:id="@+id/flow_step_two_dest"
+    android:name="com.ntduc.utils.navigation_utils.fragment.FlowStepFragment"
+    tools:layout="@layout/fragment_flow_step">
+    <argument
+      android:name="flowStepNumber"
+      android:defaultValue="2"
+      app:argType="integer" />
+    
+    <action
+      android:id="@+id/next_action"
+      app:popUpTo="@id/home_dest" />
+  </fragment>
+  <fragment
+    android:id="@+id/settings_dest"
+    android:name="com.ntduc.utils.navigation_utils.fragment.SettingsFragment"
+    android:label="@string/settings"
+    tools:layout="@layout/fragment_settings" />
+  <fragment
+    android:id="@+id/deeplink_dest"
+    android:name="com.ntduc.utils.navigation_utils.fragment.DeepLinkFragment"
+    android:label="@string/deeplink"
+    tools:layout="@layout/fragment_deep_link">
+    <argument
+      android:name="myarg"
+      android:defaultValue="Android!" />
+    
+    <deepLink app:uri="www.example.com/{myarg}" />
+  </fragment>
+  
+  <action
+    android:id="@+id/action_global_home_dest"
+    app:popUpTo="@id/home_dest" />
+</navigation>

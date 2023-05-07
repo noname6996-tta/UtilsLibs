@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+  xmlns:tools="http://schemas.android.com/tools"
+  android:layout_width="match_parent"
+  android:layout_height="match_parent"
+  tools:context=".file_utils.activity.FileUtilsActivity">
+  
+  <LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical">
+    
+    <TextView
+      android:id="@+id/txt"
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content"
+      android:textSize="24sp" />
+    
+    <Button
+      android:id="@+id/btn_selectFile"
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content"
+      android:backgroundTint="#2962FF"
+      android:text="Select File"
+      android:textAllCaps="false"
+      android:textColor="@color/white" />
+    
+    <EditText
+      android:id="@+id/edt_renameFile"
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content" />
+    
+    <Button
+      android:id="@+id/btn_renameFile"
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content"
+      android:text="Rename File"
+      android:textAllCaps="false" />
+    
+    <Button
+      android:id="@+id/btn_copyFile"
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content"
+      android:text="Copy File"
+      android:textAllCaps="false" />
+    
+    <Button
+      android:id="@+id/btn_moveFile"
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content"
+      android:text="Move File"
+      android:textAllCaps="false" />
+    
+    <Button
+      android:id="@+id/btn_deleteFile"
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content"
+      android:text="Delete File"
+      android:textAllCaps="false" />
+    
+    <Button
+      android:id="@+id/btn_shareFile"
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content"
+      android:text="Share File"
+      android:textAllCaps="false" />
+    
+    <Button
+      android:id="@+id/btn_getAllFile"
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content"
+      android:text="Get All File"
+      android:textAllCaps="false" />
+    
+    <Button
+      android:id="@+id/btn_getAllAudio"
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content"
+      android:text="Get All Audio"
+      android:textAllCaps="false" />
+    
+    <Button
+      android:id="@+id/btn_getAllImage"
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content"
+      android:text="Get All Image"
+      android:textAllCaps="false" />
+    
+    <Button
+      android:id="@+id/btn_getAllVideo"
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content"
+      android:text="Get All Video"
+      android:textAllCaps="false" />
+  </LinearLayout>
+</ScrollView>

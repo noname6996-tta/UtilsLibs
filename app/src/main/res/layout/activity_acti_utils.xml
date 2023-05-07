@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+  xmlns:tools="http://schemas.android.com/tools"
+  android:layout_width="match_parent"
+  android:layout_height="match_parent"
+  tools:context=".activity_utils.ActiUtilsActivity">
+  
+  <LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical">
+    
+    <Button
+      android:id="@+id/btn_hideStatusBar"
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content"
+      android:text="Hide StatusBar"
+      android:textAllCaps="false" />
+    
+    <Button
+      android:id="@+id/btn_showStatusBar"
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content"
+      android:text="Show StatusBar"
+      android:textAllCaps="false" />
+    
+    <Button
+      android:id="@+id/btn_enterFullScreenMode"
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content"
+      android:text="Enter Full Screen Mode"
+      android:textAllCaps="false" />
+    
+    <Button
+      android:id="@+id/btn_exitFullScreenMode"
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content"
+      android:text="Exit Full Screen Mode"
+      android:textAllCaps="false" />
+    
+    <Button
+      android:id="@+id/btn_addSecureFlag"
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content"
+      android:text="Add Secure Flag"
+      android:textAllCaps="false" />
+    
+    <Button
+      android:id="@+id/btn_clearSecureFlag"
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content"
+      android:text="Clear Secure Flag"
+      android:textAllCaps="false" />
+    
+    <Button
+      android:id="@+id/btn_showKeyboard"
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content"
+      android:text="Show Keyboard"
+      android:textAllCaps="false" />
+    
+    <Button
+      android:id="@+id/btn_hideKeyboard"
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content"
+      android:text="Hide Keyboard"
+      android:textAllCaps="false" />
+    
+    <LinearLayout
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content"
+      android:orientation="horizontal"
+      android:weightSum="5">
+      
+      <Button
+        android:id="@+id/btn_brightness"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="4"
+        android:text="Brightness (0-1)"
+        android:textAllCaps="false" />
+      
+      <EditText
+        android:id="@+id/edt_brightness"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:inputType="numberDecimal"
+        android:text="0" />
+    </LinearLayout>
+    
+    <Button
+      android:id="@+id/btn_getStatusBarHeight"
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content"
+      android:text="Get StatusBar Height (px)"
+      android:textAllCaps="false" />
+    
+    <Button
+      android:id="@+id/btn_displaySizePixels"
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content"
+      android:text="Get Display Size (px)"
+      android:textAllCaps="false" />
+    
+    <Button
+      android:id="@+id/btn_setStatusBarColor"
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content"
+      android:text="Set StatusBar Color"
+      android:textAllCaps="false" />
+    
+    <Button
+      android:id="@+id/btn_getNavigationBarHeight"
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content"
+      android:text="Get NavigationBar Height (px)"
+      android:textAllCaps="false" />
+    
+    <Button
+      android:id="@+id/btn_hideNavigationBar"
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content"
+      android:text="Hide NavigationBar"
+      android:textAllCaps="false" />
+    
+    <Button
+      android:id="@+id/btn_showNavigationBar"
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content"
+      android:text="Show NavigationBar"
+      android:textAllCaps="false" />
+    
+    <Button
+      android:id="@+id/btn_setNavigationBarColor"
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content"
+      android:text="Set NavigationBar Color"
+      android:textAllCaps="false" />
+    
+    <Button
+      android:id="@+id/btn_setNavigationBarDividerColor"
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content"
+      android:text="Set NavigationBar Divider Color"
+      android:textAllCaps="false" />
+    
+    <Button
+      android:id="@+id/btn_restart"
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content"
+      android:text="Restart"
+      android:textAllCaps="false" />
+    
+    <Button
+      android:id="@+id/btn_sleepDuration"
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content"
+      android:text="Sleep Duration 5s"
+      android:textAllCaps="false" />
+    
+    <Button
+      android:id="@+id/btn_lockOrientation"
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content"
+      android:text="Lock Orientation"
+      android:textAllCaps="false" />
+    
+    <Button
+      android:id="@+id/btn_unlockScreenOrientation"
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content"
+      android:text="Unlock Orientation"
+      android:textAllCaps="false" />
+    
+    <Button
+      android:id="@+id/btn_lockCurrentScreenOrientation"
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content"
+      android:text="Lock Current Screen Orientation"
+      android:textAllCaps="false" />
+    
+    <Button
+      android:id="@+id/btn_showBackButton"
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content"
+      android:text="Show BackButton Toolbar"
+      android:textAllCaps="false" />
+    
+    <Button
+      android:id="@+id/btn_hideBackButton"
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content"
+      android:text="Hide BackButton Toolbar"
+      android:textAllCaps="false" />
+    
+    <Button
+      android:id="@+id/btn_showToolbar"
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content"
+      android:text="Show Toolbar"
+      android:textAllCaps="false" />
+    
+    <Button
+      android:id="@+id/btn_hideToolbar"
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content"
+      android:text="Hide Toolbar"
+      android:textAllCaps="false" />
+    
+    <Button
+      android:id="@+id/btn_customBackButton"
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content"
+      android:text="Custom BackButton"
+      android:textAllCaps="false" />
+  </LinearLayout>
+</ScrollView>

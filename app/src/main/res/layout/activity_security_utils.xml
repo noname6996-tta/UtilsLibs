@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+  xmlns:tools="http://schemas.android.com/tools"
+  android:layout_width="match_parent"
+  android:layout_height="match_parent"
+  tools:context=".security_utils.SecurityUtilsActivity">
+  
+  <LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical">
+    
+    <EditText
+      android:id="@+id/edt"
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content" />
+    
+    <TextView
+      android:id="@+id/txt"
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content" />
+    
+    <Button
+      android:id="@+id/btn_encrypt"
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content"
+      android:text="encrypt"
+      android:textAllCaps="false" />
+    
+    <Button
+      android:id="@+id/btn_decrypt"
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content"
+      android:text="decrypt"
+      android:textAllCaps="false" />
+    
+    <Button
+      android:id="@+id/btn_encryptFile"
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content"
+      android:text="encryptFile"
+      android:textAllCaps="false" />
+    
+    <Button
+      android:id="@+id/btn_decryptFile"
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content"
+      android:text="decryptFile"
+      android:textAllCaps="false" />
+  </LinearLayout>
+
+</ScrollView>

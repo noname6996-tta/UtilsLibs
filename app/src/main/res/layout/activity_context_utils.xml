@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+  xmlns:tools="http://schemas.android.com/tools"
+  android:layout_width="match_parent"
+  android:layout_height="match_parent"
+  tools:context=".context_utils.ContextUtilsActivity">
+  
+  <LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical">
+    
+    <Button
+      android:id="@+id/btn_showDialog"
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content"
+      android:text="Show Dialog"
+      android:textAllCaps="false" />
+    
+    <Button
+      android:id="@+id/btn_showConfirmationDialog"
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content"
+      android:text="Show Confirmation Dialog"
+      android:textAllCaps="false" />
+    
+    <Button
+      android:id="@+id/btn_showSinglePicker"
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content"
+      android:text="Show Single Picker"
+      android:textAllCaps="false" />
+    
+    <Button
+      android:id="@+id/btn_showMultiPicker"
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content"
+      android:text="Show Multi Picker"
+      android:textAllCaps="false" />
+    
+    <Button
+      android:id="@+id/btn_isLocationEnabled"
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content"
+      android:text="Is Location Enabled"
+      android:textAllCaps="false" />
+    
+    <Button
+      android:id="@+id/btn_deviceID"
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content"
+      android:text="Device ID"
+      android:textAllCaps="false" />
+    
+    <Button
+      android:id="@+id/btn_getConnectionType"
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content"
+      android:text="Get Connection Type"
+      android:textAllCaps="false" />
+    
+    <Button
+      android:id="@+id/btn_deviceNetworkType"
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content"
+      android:text="Device Network Type"
+      android:textAllCaps="false" />
+    
+    <Button
+      android:id="@+id/btn_openEmail"
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content"
+      android:text="Open Email"
+      android:textAllCaps="false" />
+    
+    <Button
+      android:id="@+id/btn_sendEmail"
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content"
+      android:text="Send Email"
+      android:textAllCaps="false" />
+    
+    <Button
+      android:id="@+id/btn_shareText"
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content"
+      android:text="Share Text"
+      android:textAllCaps="false" />
+    
+    <Button
+      android:id="@+id/btn_sendSMS"
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content"
+      android:text="Send SMS"
+      android:textAllCaps="false" />
+    
+    <Button
+      android:id="@+id/btn_watchYoutube"
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content"
+      android:text="Watch Youtube"
+      android:textAllCaps="false" />
+    
+    <Button
+      android:id="@+id/btn_openGoogleMaps"
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content"
+      android:text="Open Google Maps"
+      android:textAllCaps="false" />
+    
+    <Button
+      android:id="@+id/btn_getTextFromClipboard"
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content"
+      android:text="Get Text From Clipboard"
+      android:textAllCaps="false" />
+  </LinearLayout>
+</ScrollView>

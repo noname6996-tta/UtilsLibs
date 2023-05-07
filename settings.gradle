@@ -1,0 +1,36 @@
+pluginManagement {
+    repositories {
+        google()
+        mavenCentral()
+        gradlePluginPortal()
+    }
+}
+dependencyResolutionManagement {
+    repositoriesMode.set(RepositoriesMode.FAIL_ON_PROJECT_REPOS)
+    repositories {
+        google()
+        mavenCentral()
+    }
+}
+rootProject.name = "UtlisLib"
+include ':app'
+include ':ActivityUtils'
+include ':AppUtils'
+include ':ClickEffectUtils'
+include ':ColorUtils'
+include ':ContextUtils'
+include ':DateTimeUtils'
+include ':FileUtils'
+include ':FragmentUtils'
+include ':GlideUtils'
+include ':NavigationUtils'
+include ':NumberUtils'
+include ':RecyclerViewUtils'
+include ':SecurityUtils'
+include ':SharedPreferenceUtils'
+include ':StringUtils'
+include ':ToastUtils'
+include ':ViewPager2Utils'
+include ':ViewUtils'
+include ':permissionx'
+include ':permissionx'

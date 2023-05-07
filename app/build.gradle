@@ -1,0 +1,76 @@
+plugins {
+    id 'com.android.application'
+    id 'org.jetbrains.kotlin.android'
+    id 'androidx.navigation.safeargs.kotlin'
+}
+
+android {
+    namespace 'com.tta.utlislib'
+    compileSdk 33
+
+    defaultConfig {
+        applicationId "com.tta.utlislib"
+        minSdk 24
+        targetSdk 33
+        versionCode 1
+        versionName "1.0"
+
+        testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android-optimize.txt'), 'proguard-rules.pro'
+        }
+    }
+    compileOptions {
+        sourceCompatibility JavaVersion.VERSION_1_8
+        targetCompatibility JavaVersion.VERSION_1_8
+    }
+    kotlinOptions {
+        jvmTarget = '1.8'
+    }
+    buildFeatures {
+        viewBinding true
+    }
+}
+
+dependencies {
+
+    implementation 'androidx.core:core-ktx:1.8.0'
+    implementation 'androidx.appcompat:appcompat:1.6.1'
+    implementation 'com.google.android.material:material:1.5.0'
+    implementation 'androidx.constraintlayout:constraintlayout:2.1.4'
+    testImplementation 'junit:junit:4.13.2'
+    androidTestImplementation 'androidx.test.ext:junit:1.1.5'
+    androidTestImplementation 'androidx.test.espresso:espresso-core:3.5.1'
+
+    implementation project(path: ':ActivityUtils')
+    implementation project(path: ':ContextUtils')
+    implementation project(path: ':FragmentUtils')
+    implementation project(path: ':ViewUtils')
+    implementation project(path: ':NavigationUtils')
+    implementation project(path: ':ToastUtils')
+    implementation project(path: ':ColorUtils')
+    implementation project(path: ':StringUtils')
+    implementation project(path: ':NumberUtils')
+    implementation project(path: ':DateTimeUtils')
+    implementation project(path: ':GlideUtils')
+    implementation project(path: ':SharedPreferenceUtils')
+    implementation project(path: ':FileUtils')
+    implementation project(path: ':SecurityUtils')
+    implementation project(path: ':AppUtils')
+    implementation project(path: ':ClickEffectUtils')
+    implementation project(path: ':ViewPager2Utils')
+    implementation project(path: ':RecyclerViewUtils')
+    // Coroutines kotlin
+    implementation "org.jetbrains.kotlinx:kotlinx-coroutines-core:1.6.4"
+    implementation "androidx.lifecycle:lifecycle-viewmodel-ktx:2.6.1"
+
+
+    //Leak Canary
+    debugImplementation 'com.squareup.leakcanary:leakcanary-android:2.10'
+
+
+}
