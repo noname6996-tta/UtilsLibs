@@ -6,18 +6,23 @@ import androidx.appcompat.app.AppCompatActivity
 import com.ntduc.clickeffectutils.setOnClickShrinkEffectListener
 import com.ntduc.contextutils.inflater
 import com.tta.utlislib.databinding.ActivityRecyclerUtilsBinding
-import com.tta.utlislib.Recycler_view_utils.sticky.RecyclerViewStickyActivity
+import com.tta.utlislib.recycler_view_utils.sticky.RecyclerViewStickyActivity
+import com.tta.utlislib.recycler_view_utils.swipe.RecycleViewSwipeActivity
 
 class RecyclerUtilsActivity : AppCompatActivity() {
-  private lateinit var binding: ActivityRecyclerUtilsBinding
-  
-  override fun onCreate(savedInstanceState: Bundle?) {
-    super.onCreate(savedInstanceState)
-    binding = ActivityRecyclerUtilsBinding.inflate(inflater)
-    setContentView(binding.root)
-    
-    binding.btnRecyclerViewSticky.setOnClickShrinkEffectListener {
-      startActivity(Intent(this, RecyclerViewStickyActivity::class.java))
+    private lateinit var binding: ActivityRecyclerUtilsBinding
+
+    override fun onCreate(savedInstanceState: Bundle?) {
+        super.onCreate(savedInstanceState)
+        binding = ActivityRecyclerUtilsBinding.inflate(inflater)
+        setContentView(binding.root)
+
+        binding.btnRecyclerViewSticky.setOnClickShrinkEffectListener {
+            startActivity(Intent(this, RecyclerViewStickyActivity::class.java))
+        }
+
+        binding.btnRecycleViewSwipe.setOnClickShrinkEffectListener {
+            startActivity(Intent(this, RecycleViewSwipeActivity::class.java))
+        }
     }
-  }
 }

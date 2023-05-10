@@ -22,6 +22,7 @@
             <option value="$PROJECT_DIR$/GlideUtils" />
             <option value="$PROJECT_DIR$/NavigationUtils" />
             <option value="$PROJECT_DIR$/NumberUtils" />
+            <option value="$PROJECT_DIR$/RecycleViewSwipe" />
             <option value="$PROJECT_DIR$/RecyclerViewUtils" />
             <option value="$PROJECT_DIR$/SecurityUtils" />
             <option value="$PROJECT_DIR$/SharedPreferenceUtils" />
@@ -30,6 +31,7 @@
             <option value="$PROJECT_DIR$/ViewPager2Utils" />
             <option value="$PROJECT_DIR$/ViewUtils" />
             <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/imageslider" />
             <option value="$PROJECT_DIR$/permissionx" />
           </set>
         </option>

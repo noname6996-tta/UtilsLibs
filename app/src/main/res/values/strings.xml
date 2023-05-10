@@ -1,17 +1,17 @@
 <resources>
-  <string name="app_name">Utils</string>
-  <!-- TODO: Remove or change this placeholder text -->
-  <string name="hello_blank_fragment">Hello blank fragment</string>
-  <string name="deeplink">Deep Link</string>
-  <string name="settings">Settings</string>
-  <string name="navigate_destination_button">Navigate to destination</string>
-  <string name="navigate_action_button">Navigate with action</string>
-  <string name="shopping_cart">Shopping Cart</string>
-  <string name="deep_link_instructions">Type your deep link args</string>
-  <string name="send_deep_link_notification_button">Send deep link notification</string>
-  <string name="settings_fragment_text">Settings Fragment</string>
-  <string name="step_one">Step One</string>
-  <string name="next_step_button">Navigation next step</string>
-  <string name="navigate_bottom_deeplink">Navigation to bottom deeplink</string>
-  <string name="home">Home</string>
+    <string name="app_name">Utils</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="deeplink">Deep Link</string>
+    <string name="settings">Settings</string>
+    <string name="navigate_destination_button">Navigate to destination</string>
+    <string name="navigate_action_button">Navigate with action</string>
+    <string name="shopping_cart">Shopping Cart</string>
+    <string name="deep_link_instructions">Type your deep link args</string>
+    <string name="send_deep_link_notification_button">Send deep link notification</string>
+    <string name="settings_fragment_text">Settings Fragment</string>
+    <string name="step_one">Step One</string>
+    <string name="next_step_button">Navigation next step</string>
+    <string name="navigate_bottom_deeplink">Navigation to bottom deeplink</string>
+    <string name="home">Home</string>
 </resources>

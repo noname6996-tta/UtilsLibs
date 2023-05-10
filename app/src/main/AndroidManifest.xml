@@ -54,14 +54,17 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Utils"
         tools:targetApi="31">
+        <activity
+            android:name=".recycler_view_utils.swipe.RecycleViewSwipeActivity"
+            android:exported="false" />
         <activity android:name=".security_utils.SecurityUtilsActivity" />
         <activity android:name="com.ntduc.utils.view_utils.activity.ViewUtilsActivity" />
         <activity android:name="com.ntduc.utils.sp_utils.SpActivity" />
         <activity android:name=".navigation_utils.activity.NavUtilsActivity" />
         <activity android:name="com.ntduc.utils.fragment_utils.activity.FragmentUtilsActivity" />
         <activity android:name="com.ntduc.utils.app_utils.activity.AppActivity" />
-        <activity android:name="com.tta.utlislib.Recycler_view_utils.sticky.RecyclerViewStickyActivity" />
-        <activity android:name="com.tta.utlislib.Recycler_view_utils.RecyclerUtilsActivity" />
+        <activity android:name=".recycler_view_utils.sticky.RecyclerViewStickyActivity" />
+        <activity android:name=".Recycler_view_utils.RecyclerUtilsActivity" />
         <activity android:name="com.ntduc.utils.file_utils.get_all_video.activity.GetAllVideoActivity" />
         <activity android:name="com.ntduc.utils.file_utils.get_all_image.activity.GetAllImageActivity" />
         <activity android:name="com.ntduc.utils.file_utils.get_all_audio.activity.GetAllAudioActivity" />

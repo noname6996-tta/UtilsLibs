@@ -1,4 +1,4 @@
-package com.tta.utlislib.Recycler_view_utils.sticky
+package com.tta.utlislib.recycler_view_utils.sticky
 
 import android.os.Bundle
 import android.view.*
