@@ -145,7 +145,7 @@ var Activity.brightness: Float?
   set(value) {
     val window = this.window
     val layoutParams = window.attributes
-    layoutParams?.screenBrightness = value //0 is turned off, 1 is full brightness
+    layoutParams?.screenBrightness = value ?: 0F //0 is turned off, 1 is full brightness
     window?.attributes = layoutParams
   }
 
