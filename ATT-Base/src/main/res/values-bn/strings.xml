@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+	<string name="action_ok">ঠিক আছে</string>
+	<string name="action_yes">হাঁ</string>
+	<string name="action_cancel">বাতিল</string>
+	<string name="action_done">সম্পন্ন</string>
+	<string name="action_enable">সক্ষম করা</string>
+	<string name="action_ok_got_it">ঠিক আছে বুঝেছি</string>
+	<string name="action_ok_buy_now">ঠিক আছে, এখন কিনুন</string>
+	<string name="action_later">পরবর্তীতে</string>
+	<string name="action_no_thanks">না ধন্যবাদ</string>
+	<string name="msg_please_wait">অনুগ্রহপূর্বক অপেক্ষা করুন…</string>
+	<string name="msg_restart_to_change_config">পরিবর্তিত ভাষা প্রয়োগ করতে অ্যাপ্লিকেশন এখন পুনরায় চালু হবে</string>
+	<string name="lbl_auto">অটো</string>
+	<string name="lbl_language">ভাষা</string>
+	<string name="lbl_select_language">ভাষা নির্বাচন কর</string>
+	<string name="lbl_settings">সেটিংস</string>
+	<string name="lbl_general">সাধারণ</string>
+	<string name="lbl_get_pro_version">প্রো সংস্করণ পান</string>
+	<string name="lbl_enable_auto_start">স্বয়ংক্রিয় শুরু করুন</string>
+	<string name="lbl_enable_auto_start_content">আপনার ডিভাইসের সেটিংসে অটো-স্টার্ট ম্যানেজার অ্যাপ্লিকেশনগুলিকে পটভূমিতে চলমান থেকে বাধা দেবে। এই অ্যাপ্লিকেশনটির ব্যাকগ্রাউন্ডে চলতে পারে আপনার এই অনুমতিটি দেওয়া উচিত।</string>
+	<string name="lbl_enable_start_in_background">আপনার ডিভাইসের সেটিংসে ব্যাকগ্রাউন্ডে শুরু করা অ্যাপ্লিকেশনগুলিকে ওপেন উইন্ডো সেটিংসকে আটকাবে। এই অ্যাপ্লিকেশনটি স্বাভাবিকভাবে কাজ করতে পারে তার জন্য আপনার এই অনুমতিটি দেওয়া উচিত।</string>
+</resources>

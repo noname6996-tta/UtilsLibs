@@ -159,34 +159,34 @@ class MainActivity : AppCompatActivity() {
     }
   }
   
-  override fun onRequestPermissionsResult(
-    requestCode: Int,
-    permissions: Array<String?>,
-    grantResults: IntArray
-  ) {
-    super.onRequestPermissionsResult(requestCode, permissions, grantResults)
-    if (requestCode == REQUEST_PERMISSION_READ_WRITE) {
-      if (grantResults.isNotEmpty()
-        && grantResults[0] == PackageManager.PERMISSION_GRANTED
-        && grantResults[1] == PackageManager.PERMISSION_GRANTED
-      ) {
-        startActivity(Intent(this, FileUtilsActivity::class.java))
-      } else {
-        if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.M) {
-          if (shouldShowRequestPermissionRationale(permissions[0]!!)
-            && shouldShowRequestPermissionRationale(permissions[1]!!)
-          ) {
-            requestPermissions(
-              permissions,
-              REQUEST_PERMISSION_READ_WRITE
-            )
-          } else {
-            openDialogAccessAllFile()
-          }
-        }
-      }
-    }
-  }
+//  override fun onRequestPermissionsResult(
+//    requestCode: Int,
+//    permissions: Array<String?>,
+//    grantResults: IntArray
+//  ) {
+//    super.onRequestPermissionsResult(requestCode, permissions, grantResults)
+//    if (requestCode == REQUEST_PERMISSION_READ_WRITE) {
+//      if (grantResults.isNotEmpty()
+//        && grantResults[0] == PackageManager.PERMISSION_GRANTED
+//        && grantResults[1] == PackageManager.PERMISSION_GRANTED
+//      ) {
+//        startActivity(Intent(this, FileUtilsActivity::class.java))
+//      } else {
+//        if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.M) {
+//          if (shouldShowRequestPermissionRationale(permissions[0]!!)
+//            && shouldShowRequestPermissionRationale(permissions[1]!!)
+//          ) {
+//            requestPermissions(
+//              permissions,
+//              REQUEST_PERMISSION_READ_WRITE
+//            )
+//          } else {
+//            openDialogAccessAllFile()
+//          }
+//        }
+//      }
+//    }
+//  }
   
   private fun openDialogAccessAllFile() {
     showConfirmationDialog(

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+	<string name="action_ok">D\'acord</string>
+	<string name="action_yes">Sí</string>
+	<string name="action_cancel">Cancel · lar</string>
+	<string name="action_done">Fet</string>
+	<string name="action_enable">Habilita</string>
+	<string name="action_ok_got_it">D\'acord ho tinc</string>
+	<string name="action_ok_buy_now">Bé, compreu ara</string>
+	<string name="action_later">Més tard</string>
+	<string name="action_no_thanks">No gràcies</string>
+	<string name="msg_please_wait">Espereu ...</string>
+	<string name="msg_restart_to_change_config">L\'aplicació es reiniciarà ara per aplicar l\'idioma canviat</string>
+	<string name="lbl_auto">Auto</string>
+	<string name="lbl_language">Llenguatge</string>
+	<string name="lbl_select_language">Escolliu l\'idioma</string>
+	<string name="lbl_settings">Configuració</string>
+	<string name="lbl_general">General</string>
+	<string name="lbl_get_pro_version">Obteniu la Versió Pro</string>
+	<string name="lbl_enable_auto_start">Activa l\'inici automàtic</string>
+	<string name="lbl_enable_auto_start_content">El gestor d\'inici automàtic a la configuració del dispositiu evitarà que les aplicacions es publiquin en segon pla. Hauríeu de concedir aquest permís perquè aquesta aplicació es pugui executar en segon pla.</string>
+	<string name="lbl_enable_start_in_background">Començar en segon pla a la configuració del dispositiu evitarà que les aplicacions s’obrin la configuració de la finestra. Hauríeu de concedir aquest permís perquè aquesta aplicació funcioni normalment.</string>
+</resources>

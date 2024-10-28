@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+	<string name="action_ok">בסדר</string>
+	<string name="action_yes">כן</string>
+	<string name="action_cancel">לְבַטֵל</string>
+	<string name="action_done">בוצע</string>
+	<string name="action_enable">לְאַפשֵׁר</string>
+	<string name="action_ok_got_it">בסדר קיבלתי את זה</string>
+	<string name="action_ok_buy_now">בסדר, קנה עכשיו</string>
+	<string name="action_later">יותר מאוחר</string>
+	<string name="action_no_thanks">לא תודה</string>
+	<string name="msg_please_wait">המתן בבקשה…</string>
+	<string name="msg_restart_to_change_config">היישום יופעל מחדש כדי להחיל את השפה</string>
+	<string name="lbl_auto">אוטומטי</string>
+	<string name="lbl_language">שפה</string>
+	<string name="lbl_select_language">בחר שפה</string>
+	<string name="lbl_settings">הגדרות</string>
+	<string name="lbl_general">כללי</string>
+	<string name="lbl_get_pro_version">קבל גירסת Pro</string>
+	<string name="lbl_enable_auto_start">אפשר הפעלה אוטומטית</string>
+	<string name="lbl_enable_auto_start_content">הפעלה אוטומטית של מנהל בהגדרות המכשיר שלך תמנע מאפליקציות לפעול ברקע. עליך לתת הרשאה זו עבור יישום זה יכול לרוץ ברקע.</string>
+	<string name="lbl_enable_start_in_background">התחל ברקע בהגדרות המכשיר שלך ימנע הגדרות חלון של יישומים. עליך לתת הרשאה זו עבור יישום זה יכול לעבוד כרגיל.</string>
+</resources>

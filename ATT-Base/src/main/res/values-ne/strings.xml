@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+	<string name="action_ok">ठिक छ</string>
+	<string name="action_yes">हो</string>
+	<string name="action_cancel">रद्द गर्नुहोस्</string>
+	<string name="action_done">भयो</string>
+	<string name="action_enable">सक्रिय गर्नुहोस्</string>
+	<string name="action_ok_got_it">ठीक छ, पाउनुभयो</string>
+	<string name="action_ok_buy_now">ठीक छ, अब खरिद गर्नुहोस्</string>
+	<string name="action_later">पछि</string>
+	<string name="action_no_thanks">होइन, धन्यबाद</string>
+	<string name="msg_please_wait">कृपया पर्खनुहोस्…</string>
+	<string name="msg_restart_to_change_config">अनुप्रयोगलाई अहिले लागू गर्न भाषा पुन: सुरुवात गर्नेछ</string>
+	<string name="lbl_auto">स्वत:</string>
+	<string name="lbl_language">भाषा</string>
+	<string name="lbl_select_language">भाषा छनोट गर्नुस</string>
+	<string name="lbl_settings">सेटिङ्हरू</string>
+	<string name="lbl_general">सामान्य</string>
+	<string name="lbl_get_pro_version">प्रो संस्करण पाउनुहोस्</string>
+	<string name="lbl_enable_auto_start">स्वत: सुरू सक्षम गर्नुहोस्</string>
+	<string name="lbl_enable_auto_start_content">तपाईंको उपकरणको सेटिंग्समा स्वत: सुरुवात प्रबन्धकले पृष्ठभूमिमा चालू हुनबाट अनुप्रयोगहरूलाई रोक्दछ। यस अनुप्रयोगलाई पृष्ठभूमिमा चल्नका लागि तपाईंले यस अनुमति प्रदान गर्नुपर्दछ।</string>
+	<string name="lbl_enable_start_in_background">तपाईंको उपकरणको सेटिंग्समा पृष्ठभूमिमा सुरू गर्नाले अनुप्रयोगहरू खोल्नुहोस् विन्डो सेटिंग बन्द हुनेछ। तपाईंले यस अनुमतिलाई अनुमति दिनुपर्दछ यस अनुप्रयोगले सामान्य रूपमा काम गर्न सक्दछ।</string>
+</resources>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+	<string name="action_ok">అలాగే</string>
+	<string name="action_yes">అవును</string>
+	<string name="action_cancel">రద్దు</string>
+	<string name="action_done">పూర్తి</string>
+	<string name="action_enable">ప్రారంభించు</string>
+	<string name="action_ok_got_it">సరే అర్థమయ్యింది</string>
+	<string name="action_ok_buy_now">సరే, ఇప్పుడే కొనండి</string>
+	<string name="action_later">తర్వాత</string>
+	<string name="action_no_thanks">లేదు, ధన్యవాదాలు</string>
+	<string name="msg_please_wait">దయచేసి వేచి ఉండండి ...</string>
+	<string name="msg_restart_to_change_config">భాష మార్చినప్పుడు అనువర్తనాన్ని ఇప్పుడు పునఃప్రారంభించుము</string>
+	<string name="lbl_auto">దానంతట అదే</string>
+	<string name="lbl_language">భాషా</string>
+	<string name="lbl_select_language">భాషను ఎంచుకోండి</string>
+	<string name="lbl_settings">సెట్టింగులు</string>
+	<string name="lbl_general">జనరల్</string>
+	<string name="lbl_get_pro_version">ప్రో సంస్కరణను పొందండి</string>
+	<string name="lbl_enable_auto_start">స్వీయ-ప్రారంభించు ప్రారంభించు</string>
+	<string name="lbl_enable_auto_start_content">మీ పరికరం యొక్క సెట్టింగ్‌లలో ఆటో-స్టార్ట్ మేనేజర్ అనువర్తనాలు నేపథ్యంలో పనిచేయకుండా నిరోధిస్తుంది. ఈ అనువర్తనం నేపథ్యంలో అమలు కావడానికి మీరు ఈ అనుమతి ఇవ్వాలి.</string>
+	<string name="lbl_enable_start_in_background">మీ పరికరం యొక్క సెట్టింగ్‌లలో నేపథ్యంలో ప్రారంభించండి అనువర్తనాలు ఓపెన్ విండో సెట్టింగ్‌ను నిరోధిస్తుంది. ఈ అనువర్తనం సాధారణంగా పనిచేయడానికి మీరు ఈ అనుమతి ఇవ్వాలి.</string>
+</resources>

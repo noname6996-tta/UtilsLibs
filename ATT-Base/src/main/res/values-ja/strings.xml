@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+	<string name="action_ok">[OK]</string>
+	<string name="action_yes">はい</string>
+	<string name="action_cancel">キャンセル</string>
+	<string name="action_done">完了</string>
+	<string name="action_enable">有効にする</string>
+	<string name="action_ok_got_it">はい、わかった</string>
+	<string name="action_ok_buy_now">OK、今すぐ購入</string>
+	<string name="action_later">後で</string>
+	<string name="action_no_thanks">結構です</string>
+	<string name="msg_please_wait">お待ちください…</string>
+	<string name="msg_restart_to_change_config">アプリケーションが今すぐ再起動し、言語が変更されました</string>
+	<string name="lbl_auto">オート</string>
+	<string name="lbl_language">言語</string>
+	<string name="lbl_select_language">言語を選択する</string>
+	<string name="lbl_settings">設定</string>
+	<string name="lbl_general">一般</string>
+	<string name="lbl_get_pro_version">プロバージョンを入手</string>
+	<string name="lbl_enable_auto_start">自動起動を有効にする</string>
+	<string name="lbl_enable_auto_start_content">デバイスの[設定]にあるマネージャーを自動起動すると、アプリがバックグラウンドで実行されなくなります。このアプリはバックグラウンドで実行できるため、この権限を付与する必要があります。</string>
+	<string name="lbl_enable_start_in_background">デバイスの設定でバックグラウンドで開始すると、アプリでウィンドウを開く設定ができなくなります。このアプリが正常に機能するためには、この権限を付与する必要があります。</string>
+</resources>

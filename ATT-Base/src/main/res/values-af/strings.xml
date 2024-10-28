@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+	<string name="action_ok">OK</string>
+	<string name="action_yes">Ja</string>
+	<string name="action_cancel">Kanselleer</string>
+	<string name="action_done">Gedaan</string>
+	<string name="action_enable">In staat te stel</string>
+	<string name="action_ok_got_it">OK het dit</string>
+	<string name="action_ok_buy_now">OK, koop nou</string>
+	<string name="action_later">Later</string>
+	<string name="action_no_thanks">Nee dankie</string>
+	<string name="msg_please_wait">Wag asseblief…</string>
+	<string name="msg_restart_to_change_config">Program sal weer begin om taal te verander</string>
+	<string name="lbl_auto">Auto</string>
+	<string name="lbl_language">Taal</string>
+	<string name="lbl_select_language">Kies taal</string>
+	<string name="lbl_settings">Instellings</string>
+	<string name="lbl_general">Algemene</string>
+	<string name="lbl_get_pro_version">Kry Pro Weergawe</string>
+	<string name="lbl_enable_auto_start">Aktiveer outomaties begin</string>
+	<string name="lbl_enable_auto_start_content">As u bestuurder outomaties begin met instellings van u toestel, verhoed u dat apps op die agtergrond loop. U moet toestemming verleen dat hierdie program in die agtergrond kan loop.</string>
+	<string name="lbl_enable_start_in_background">Begin in die agtergrond in Instellings van u toestel om te verhoed dat apps die venster instel. U moet toestemming gee dat hierdie app normaal kan werk.</string>
+</resources>

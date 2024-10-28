@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+	<string name="action_ok">U redu</string>
+	<string name="action_yes">Da</string>
+	<string name="action_cancel">Otkazati</string>
+	<string name="action_done">Gotovo</string>
+	<string name="action_enable">Omogućiti</string>
+	<string name="action_ok_got_it">U redu, shvatio sam</string>
+	<string name="action_ok_buy_now">U redu, kupi sada</string>
+	<string name="action_later">Kasnije</string>
+	<string name="action_no_thanks">Ne hvala</string>
+	<string name="msg_please_wait">Pričekajte ...</string>
+	<string name="msg_restart_to_change_config">Aplikacija će se ponovo pokrenuti kako bi se promijenila jezik</string>
+	<string name="lbl_auto">Auto</string>
+	<string name="lbl_language">Jezik</string>
+	<string name="lbl_select_language">Izaberi jezik</string>
+	<string name="lbl_settings">Postavke</string>
+	<string name="lbl_general">General</string>
+	<string name="lbl_get_pro_version">Nabavite Pro verziju</string>
+	<string name="lbl_enable_auto_start">Omogući automatsko pokretanje</string>
+	<string name="lbl_enable_auto_start_content">Upravitelj automatskog pokretanja u Postavkama vašeg uređaja spriječit će da se aplikacije prikazuju u pozadini. Omogućite ovo dopuštenje za upotrebu ove aplikacije u pozadini.</string>
+	<string name="lbl_enable_start_in_background">Pokretanje u pozadini u Postavkama vašeg uređaja spriječit će aplikacije otvoriti postavke prozora. Trebali biste odobriti ovo dopuštenje za ovu aplikaciju može normalno raditi.</string>
+</resources>

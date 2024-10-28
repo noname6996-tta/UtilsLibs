@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+	<string name="action_ok">ตกลง</string>
+	<string name="action_yes">ใช่</string>
+	<string name="action_cancel">ยกเลิก</string>
+	<string name="action_done">เสร็จสิ้น</string>
+	<string name="action_enable">ทำให้สามารถ</string>
+	<string name="action_ok_got_it">เอาล่ะ</string>
+	<string name="action_ok_buy_now">ตกลงซื้อเดี๋ยวนี้</string>
+	<string name="action_later">ต่อมา</string>
+	<string name="action_no_thanks">ไม่เป็นไรขอบคุณ</string>
+	<string name="msg_please_wait">โปรดรอ…</string>
+	<string name="msg_restart_to_change_config">แอปจะรีสตาร์ทเดี๋ยวนี้เพื่อใช้การเปลี่ยนแปลงภาษา</string>
+	<string name="lbl_auto">รถยนต์</string>
+	<string name="lbl_language">ภาษา</string>
+	<string name="lbl_select_language">เลือกภาษา</string>
+	<string name="lbl_settings">การตั้งค่า</string>
+	<string name="lbl_general">ทั่วไป</string>
+	<string name="lbl_get_pro_version">รับเวอร์ชัน Pro</string>
+	<string name="lbl_enable_auto_start">เปิดใช้งานการเริ่มต้นอัตโนมัติ</string>
+	<string name="lbl_enable_auto_start_content">ผู้จัดการเริ่มอัตโนมัติในการตั้งค่าอุปกรณ์ของคุณจะป้องกันไม่ให้แอปทำงานในพื้นหลัง คุณควรให้สิทธิ์สำหรับแอพนี้ในเบื้องหลัง</string>
+	<string name="lbl_enable_start_in_background">เริ่มต้นในพื้นหลังในการตั้งค่าอุปกรณ์ของคุณจะป้องกันไม่ให้แอปเปิดการตั้งค่าหน้าต่าง คุณควรให้สิทธิ์นี้กับแอพนี้สามารถทำงานได้ตามปกติ</string>
+</resources>

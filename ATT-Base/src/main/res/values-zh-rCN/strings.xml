@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+	<string name="action_ok">好</string>
+	<string name="action_yes">是</string>
+	<string name="action_cancel">取消</string>
+	<string name="action_done">完成</string>
+	<string name="action_enable">启用</string>
+	<string name="action_ok_got_it">好的，我知道了</string>
+	<string name="action_ok_buy_now">好的，现在就买</string>
+	<string name="action_later">后来</string>
+	<string name="action_no_thanks">不用了，谢谢</string>
+	<string name="msg_please_wait">请稍候…</string>
+	<string name="msg_restart_to_change_config">应用程序将立即重新启动应用语言更改</string>
+	<string name="lbl_auto">汽车</string>
+	<string name="lbl_language">语言</string>
+	<string name="lbl_select_language">选择语言</string>
+	<string name="lbl_settings">设置</string>
+	<string name="lbl_general">一般</string>
+	<string name="lbl_get_pro_version">获取专业版</string>
+	<string name="lbl_enable_auto_start">启用自动启动</string>
+	<string name="lbl_enable_auto_start_content">设备设置中的自动启动管理器将阻止应用在后台运行。您应为此应用授予此权限，使其可以在后台运行。</string>
+	<string name="lbl_enable_start_in_background">在设备设置中以后台启动会阻止应用打开窗口设置。您应为此应用授予此权限，使其可以正常工作。</string>
+</resources>

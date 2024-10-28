@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+	<string name="action_ok">OK</string>
+	<string name="action_yes">Ja</string>
+	<string name="action_cancel">Annuleer</string>
+	<string name="action_done">Gedaan</string>
+	<string name="action_enable">In staat stellen</string>
+	<string name="action_ok_got_it">OK ik snap het</string>
+	<string name="action_ok_buy_now">OK, koop nu</string>
+	<string name="action_later">Later</string>
+	<string name="action_no_thanks">Nee, dank u wel</string>
+	<string name="msg_please_wait">Even geduld aub…</string>
+	<string name="msg_restart_to_change_config">De app wordt nu opnieuw opgestart om de taal aan te passen die is gewijzigd</string>
+	<string name="lbl_auto">Auto</string>
+	<string name="lbl_language">Taal</string>
+	<string name="lbl_select_language">Selecteer taal</string>
+	<string name="lbl_settings">Instellingen</string>
+	<string name="lbl_general">Algemeen</string>
+	<string name="lbl_get_pro_version">Krijg de pro versie</string>
+	<string name="lbl_enable_auto_start">Schakel auto-start in</string>
+	<string name="lbl_enable_auto_start_content">Auto-start manager in Instellingen van uw apparaat voorkomt dat apps op de achtergrond worden uitgevoerd. U moet deze toestemming verlenen omdat deze app op de achtergrond kan worden uitgevoerd.</string>
+	<string name="lbl_enable_start_in_background">Als u op de achtergrond in Instellingen van uw apparaat begint, worden de instellingen voor het openen van apps voorkomen. U moet deze toestemming verlenen omdat deze app normaal kan werken.</string>
+</resources>

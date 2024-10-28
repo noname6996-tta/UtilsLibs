@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+	<string name="action_ok">ຕົກ​ລົງ</string>
+	<string name="action_yes">ແມ່ນແລ້ວ</string>
+	<string name="action_cancel">ຍົກເລີກ</string>
+	<string name="action_done">ເຮັດແລ້ວ</string>
+	<string name="action_enable">ເປີດໃຊ້ງານ</string>
+	<string name="action_ok_got_it">OK, ໄດ້ຮັບມັນ</string>
+	<string name="action_ok_buy_now">OK, ຊື້ແລ້ວ</string>
+	<string name="action_later">ຕໍ່ມາ</string>
+	<string name="action_no_thanks">ບໍ່​ຂອບ​ໃຈ</string>
+	<string name="msg_please_wait">ກະ​ລຸ​ນາ​ລໍ​ຖ້າ…</string>
+	<string name="msg_restart_to_change_config">ແອັບຯຈະ restart ຕອນນີ້ເພື່ອນໍາໃຊ້ພາສາທີ່ມີການປ່ຽນແປງ</string>
+	<string name="lbl_auto">ອັດຕະໂນມັດ</string>
+	<string name="lbl_language">ພາສາ</string>
+	<string name="lbl_select_language">ເລືອກພາສາ</string>
+	<string name="lbl_settings">Settings</string>
+	<string name="lbl_general">ທົ່ວໄປ</string>
+	<string name="lbl_get_pro_version">Get Pro Version</string>
+	<string name="lbl_enable_auto_start">ເປີດຕົວອັດຕະໂນມັດ</string>
+	<string name="lbl_enable_auto_start_content">ຜູ້ຈັດການເລີ່ມຕົ້ນໂດຍອັດຕະໂນມັດໃນການຕັ້ງຄ່າຂອງອຸປະກອນຂອງທ່ານຈະປ້ອງກັນບໍ່ໃຫ້ແອັບ from ເຮັດວຽກຢູ່ໃນພື້ນຫລັງ. ທ່ານຄວນຈະໃຫ້ການອະນຸຍາດ ສຳ ລັບແອັບ this ນີ້ສາມາດໃຊ້ງານໄດ້ໃນພື້ນຫລັງ.</string>
+	<string name="lbl_enable_start_in_background">ເລີ່ມຕົ້ນໃນພື້ນຫລັງໃນການຕັ້ງຄ່າຂອງອຸປະກອນຂອງທ່ານຈະປ້ອງກັນກິດເປີດການຕັ້ງຄ່າ window. ທ່ານຄວນຈະໃຫ້ການອະນຸຍາດ ສຳ ລັບແອັບ this ນີ້ສາມາດເຮັດວຽກໄດ້ຕາມປົກກະຕິ.</string>
+</resources>

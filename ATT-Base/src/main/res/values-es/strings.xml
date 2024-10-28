@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+	<string name="action_ok">DE ACUERDO</string>
+	<string name="action_yes">Sí</string>
+	<string name="action_cancel">Cancelar</string>
+	<string name="action_done">Hecho</string>
+	<string name="action_enable">Habilitar</string>
+	<string name="action_ok_got_it">Ok lo tengo</string>
+	<string name="action_ok_buy_now">OK, compra ahora</string>
+	<string name="action_later">Luego</string>
+	<string name="action_no_thanks">No, gracias</string>
+	<string name="msg_please_wait">Por favor espera…</string>
+	<string name="msg_restart_to_change_config">La aplicación se reiniciará ahora para aplicar el cambio de idioma</string>
+	<string name="lbl_auto">Auto</string>
+	<string name="lbl_language">Idioma</string>
+	<string name="lbl_select_language">Seleccione el idioma</string>
+	<string name="lbl_settings">Configuraciones</string>
+	<string name="lbl_general">General</string>
+	<string name="lbl_get_pro_version">Obtén la versión Pro</string>
+	<string name="lbl_enable_auto_start">Habilitar inicio automático</string>
+	<string name="lbl_enable_auto_start_content">El administrador de inicio automático en la Configuración de su dispositivo evitará que las aplicaciones se ejecuten en segundo plano. Debe otorgar este permiso para que esta aplicación pueda ejecutarse en segundo plano.</string>
+	<string name="lbl_enable_start_in_background">Iniciar en segundo plano en la Configuración de su dispositivo evitará que las aplicaciones abran la configuración de la ventana. Debe otorgar este permiso para que esta aplicación pueda funcionar normalmente.</string>
+</resources>

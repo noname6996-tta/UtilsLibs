@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+	<string name="action_ok">O.K</string>
+	<string name="action_yes">Da</string>
+	<string name="action_cancel">Anulare</string>
+	<string name="action_done">Terminat</string>
+	<string name="action_enable">Permite</string>
+	<string name="action_ok_got_it">OK am inteles</string>
+	<string name="action_ok_buy_now">OK, cumperi acum</string>
+	<string name="action_later">Mai tarziu</string>
+	<string name="action_no_thanks">Nu multumesc</string>
+	<string name="msg_please_wait">Te rog asteapta…</string>
+	<string name="msg_restart_to_change_config">Aplicația va reporni acum pentru a aplica limba modificată</string>
+	<string name="lbl_auto">Auto</string>
+	<string name="lbl_language">Limba</string>
+	<string name="lbl_select_language">Selecteaza limba</string>
+	<string name="lbl_settings">Setări</string>
+	<string name="lbl_general">General</string>
+	<string name="lbl_get_pro_version">Obțineți Versiunea Pro</string>
+	<string name="lbl_enable_auto_start">Activați pornirea automată</string>
+	<string name="lbl_enable_auto_start_content">Managerul de pornire automată în Setările dispozitivului dvs. va împiedica rularea aplicațiilor în fundal. Ar trebui să acordați această permisiune pentru ca această aplicație să poată rula în fundal.</string>
+	<string name="lbl_enable_start_in_background">Începeți în fundal în Setările dispozitivului dvs. va împiedica setarea pentru deschiderea aplicațiilor pentru ferestre. Ar trebui să acordați această permisiune pentru ca această aplicație să funcționeze normal.</string>
+</resources>

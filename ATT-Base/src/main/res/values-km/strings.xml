@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+	<string name="action_ok">យល់ព្រម</string>
+	<string name="action_yes">បាទ</string>
+	<string name="action_cancel">បោះបង់</string>
+	<string name="action_done">ធ្វើ</string>
+	<string name="action_enable">អនុញ្ញាត</string>
+	<string name="action_ok_got_it">បាន​យល់​ហើយ</string>
+	<string name="action_ok_buy_now">យល់ព្រមសូមទិញឥឡូវ</string>
+	<string name="action_later">ក្រោយមក</string>
+	<string name="action_no_thanks">អត់អី​ទេ​អរគុណ​ហើយ</string>
+	<string name="msg_please_wait">សូមរង់ចាំ ...</string>
+	<string name="msg_restart_to_change_config">កម្មវិធីនឹងចាប់ផ្តើមឡើងវិញឥឡូវនេះដើម្បីអនុវត្តភាសាដែលបានផ្លាស់ប្តូរ</string>
+	<string name="lbl_auto">ដោយស្វ័យប្រវត្តិ</string>
+	<string name="lbl_language">ភាសា</string>
+	<string name="lbl_select_language">ជ្រើសរើស​ភាសា</string>
+	<string name="lbl_settings">ការកំណត់</string>
+	<string name="lbl_general">ទូទៅ</string>
+	<string name="lbl_get_pro_version">ទទួលបានកំណែគាំទ្រ</string>
+	<string name="lbl_enable_auto_start">បើកដំណើរការស្វ័យប្រវត្តិ</string>
+	<string name="lbl_enable_auto_start_content">កម្មវិធីគ្រប់គ្រងការចាប់ផ្តើមដោយស្វ័យប្រវត្តិនៅក្នុងការកំណត់ឧបករណ៍របស់អ្នកនឹងរារាំងកម្មវិធីមិនឱ្យដំណើរការនៅផ្ទៃខាងក្រោយ។ អ្នកគួរតែផ្តល់ការអនុញ្ញាតសម្រាប់កម្មវិធីនេះអាចដំណើរការនៅខាងក្រោយ។</string>
+	<string name="lbl_enable_start_in_background">ចាប់ផ្តើមនៅផ្ទៃខាងក្រោយនៅក្នុងការកំណត់ឧបករណ៍របស់អ្នកនឹងរារាំងកម្មវិធីបើកការកំណត់បង្អួច។ អ្នកគួរតែផ្តល់ការអនុញ្ញាតសម្រាប់កម្មវិធីនេះអាចដំណើរការបានធម្មតា។</string>
+</resources>

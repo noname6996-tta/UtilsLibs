@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+	<string name="action_ok">Ok</string>
+	<string name="action_yes">Tak</string>
+	<string name="action_cancel">Anuluj</string>
+	<string name="action_done">Gotowe</string>
+	<string name="action_enable">Włączyć</string>
+	<string name="action_ok_got_it">Ok, rozumiem</string>
+	<string name="action_ok_buy_now">OK, kup teraz</string>
+	<string name="action_later">Później</string>
+	<string name="action_no_thanks">Nie, dziękuję</string>
+	<string name="msg_please_wait">Proszę czekać…</string>
+	<string name="msg_restart_to_change_config">Aplikacja uruchomi się ponownie, aby zmienić język</string>
+	<string name="lbl_auto">Automatyczny</string>
+	<string name="lbl_language">Język</string>
+	<string name="lbl_select_language">Wybierz język</string>
+	<string name="lbl_settings">Ustawienia</string>
+	<string name="lbl_general">Generał</string>
+	<string name="lbl_get_pro_version">Uzyskaj wersję Pro</string>
+	<string name="lbl_enable_auto_start">Włącz automatyczne uruchamianie</string>
+	<string name="lbl_enable_auto_start_content">Menedżer automatycznego uruchamiania w Ustawieniach urządzenia uniemożliwi uruchamianie aplikacji w tle. Musisz przyznać to uprawnienie, aby ta aplikacja mogła działać w tle.</string>
+	<string name="lbl_enable_start_in_background">Uruchom w tle w Ustawieniach urządzenia uniemożliwi ustawienie aplikacji w oknie. Należy przyznać to pozwolenie, aby ta aplikacja mogła działać normalnie.</string>
+</resources>

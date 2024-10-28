@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+	<string name="action_ok">добре</string>
+	<string name="action_yes">Так</string>
+	<string name="action_cancel">Скасувати</string>
+	<string name="action_done">Готово</string>
+	<string name="action_enable">Увімкнути</string>
+	<string name="action_ok_got_it">Добре, зрозумів</string>
+	<string name="action_ok_buy_now">ОК, купуй зараз</string>
+	<string name="action_later">Пізніше</string>
+	<string name="action_no_thanks">Ні, дякую</string>
+	<string name="msg_please_wait">Будь ласка, зачекайте ...</string>
+	<string name="msg_restart_to_change_config">Програма перезавантажиться зараз, щоб застосувати змінену мову</string>
+	<string name="lbl_auto">Авто</string>
+	<string name="lbl_language">Мова</string>
+	<string name="lbl_select_language">Оберіть мову</string>
+	<string name="lbl_settings">Налаштування</string>
+	<string name="lbl_general">Генерал</string>
+	<string name="lbl_get_pro_version">Отримати версію Pro</string>
+	<string name="lbl_enable_auto_start">Увімкнути автозапуск</string>
+	<string name="lbl_enable_auto_start_content">Менеджер автоматичного запуску в Налаштуваннях вашого пристрою запобігає запуску програм у фоновому режимі. Ви повинні надати цей дозвіл, щоб ця програма може працювати у фоновому режимі.</string>
+	<string name="lbl_enable_start_in_background">Почати у фоновому режимі в Налаштуваннях вашого пристрою не дозволить програмам відкрити налаштування вікна. Ви повинні надати цей дозвіл, щоб ця програма могла працювати нормально.</string>
+</resources>

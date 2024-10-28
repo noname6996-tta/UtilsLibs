@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+	<string name="action_ok">V redu</string>
+	<string name="action_yes">Ja</string>
+	<string name="action_cancel">Prekliči</string>
+	<string name="action_done">Končano</string>
+	<string name="action_enable">Omogoči</string>
+	<string name="action_ok_got_it">Vredu razumem</string>
+	<string name="action_ok_buy_now">OK, kupite zdaj</string>
+	<string name="action_later">Kasneje</string>
+	<string name="action_no_thanks">Ne hvala</string>
+	<string name="msg_please_wait">Prosim počakaj…</string>
+	<string name="msg_restart_to_change_config">Aplikacija se bo ponovno začela uporabljati jezik, ki se je spremenil</string>
+	<string name="lbl_auto">Samodejno</string>
+	<string name="lbl_language">Jezik</string>
+	<string name="lbl_select_language">Izberi jezik</string>
+	<string name="lbl_settings">Nastavitve</string>
+	<string name="lbl_general">Splošno</string>
+	<string name="lbl_get_pro_version">Get Pro Version</string>
+	<string name="lbl_enable_auto_start">Omogoči samodejni zagon</string>
+	<string name="lbl_enable_auto_start_content">Upravitelj samodejnega zagona v nastavitvah naprave prepreči, da bi se aplikacije v ozadju izvajale. To dovoljenje morate odobriti, če se ta aplikacija lahko izvaja v ozadju.</string>
+	<string name="lbl_enable_start_in_background">Začetek v ozadju v nastavitvah vaše naprave preprečuje, da bi aplikacije odprle nastavitev okna. Podelite to dovoljenje, če lahko ta aplikacija normalno deluje.</string>
+</resources>

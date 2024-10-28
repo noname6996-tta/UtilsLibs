@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+	<string name="action_ok">Sawa</string>
+	<string name="action_yes">Ndiyo</string>
+	<string name="action_cancel">Futa</string>
+	<string name="action_done">Imefanywa</string>
+	<string name="action_enable">Wezesha</string>
+	<string name="action_ok_got_it">Sawa nimepata</string>
+	<string name="action_ok_buy_now">Sawa, kununua sasa</string>
+	<string name="action_later">Baadae</string>
+	<string name="action_no_thanks">La, shukrani</string>
+	<string name="msg_please_wait">Tafadhali subiri…</string>
+	<string name="msg_restart_to_change_config">Programu itaanza upya sasa ili itumie lugha imebadilishwa</string>
+	<string name="lbl_auto">Auto</string>
+	<string name="lbl_language">Lugha</string>
+	<string name="lbl_select_language">Chagua lugha</string>
+	<string name="lbl_settings">Mipangilio</string>
+	<string name="lbl_general">Mkuu</string>
+	<string name="lbl_get_pro_version">Pata Toleo la Pro</string>
+	<string name="lbl_enable_auto_start">Wezesha kuanza kwa auto</string>
+	<string name="lbl_enable_auto_start_content">Meneja-anza otomatiki kwenye Mipangilio ya kifaa chako itazuia programu kutoka nyuma. Unapaswa kupeana idhini hii kwa programu hii inaweza kutumika nyuma.</string>
+	<string name="lbl_enable_start_in_background">Anza kwa nyuma katika Mipangilio ya kifaa chako kuzuia programu kufungua mipangilio ya dirisha. Unapaswa kupeana idhini hii kwa programu hii inaweza kufanya kazi kwa kawaida.</string>
+</resources>

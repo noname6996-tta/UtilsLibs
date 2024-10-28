@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+	<string name="action_ok">ठीक</string>
+	<string name="action_yes">हाँ</string>
+	<string name="action_cancel">रद्द करना</string>
+	<string name="action_done">किया हुआ</string>
+	<string name="action_enable">सक्षम करें</string>
+	<string name="action_ok_got_it">ठीक मिल गया</string>
+	<string name="action_ok_buy_now">ठीक है, अभी खरीदें</string>
+	<string name="action_later">बाद में</string>
+	<string name="action_no_thanks">जी नहीं, धन्यवाद</string>
+	<string name="msg_please_wait">कृपया प्रतीक्षा करें…</string>
+	<string name="msg_restart_to_change_config">भाषा बदलने के लिए ऐप फिर से शुरू हो जाएगा</string>
+	<string name="lbl_auto">ऑटो</string>
+	<string name="lbl_language">भाषा</string>
+	<string name="lbl_select_language">भाषा चुनिए</string>
+	<string name="lbl_settings">सेटिंग्स</string>
+	<string name="lbl_general">सामान्य</string>
+	<string name="lbl_get_pro_version">प्रो संस्करण प्राप्त</string>
+	<string name="lbl_enable_auto_start">ऑटो-स्टार्ट सक्षम करें</string>
+	<string name="lbl_enable_auto_start_content">आपके डिवाइस की सेटिंग में ऑटो-स्टार्ट मैनेजर ऐप्स को बैकग्राउंड में चलने से रोकेगा। आपको इस ऐप को पृष्ठभूमि में चलाने की अनुमति देनी चाहिए।</string>
+	<string name="lbl_enable_start_in_background">अपने डिवाइस की सेटिंग में बैकग्राउंड में शुरू होने से ऐप्स खुले विंडो सेटिंग को रोक पाएंगे। आपको यह अनुमति देनी चाहिए कि यह ऐप सामान्य रूप से काम कर सकता है।</string>
+</resources>

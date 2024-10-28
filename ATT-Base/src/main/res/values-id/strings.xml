@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+	<string name="action_ok">Baik</string>
+	<string name="action_yes">Iya nih</string>
+	<string name="action_cancel">Membatalkan</string>
+	<string name="action_done">Selesai</string>
+	<string name="action_enable">Memungkinkan</string>
+	<string name="action_ok_got_it">OK mengerti</string>
+	<string name="action_ok_buy_now">Oke, beli sekarang</string>
+	<string name="action_later">Kemudian</string>
+	<string name="action_no_thanks">Tidak, terima kasih</string>
+	<string name="msg_please_wait">Mohon tunggu…</string>
+	<string name="msg_restart_to_change_config">Aplikasi akan dimulai kembali sekarang untuk menerapkan bahasa yang diubah</string>
+	<string name="lbl_auto">Mobil</string>
+	<string name="lbl_language">Bahasa</string>
+	<string name="lbl_select_language">Pilih bahasa</string>
+	<string name="lbl_settings">Pengaturan</string>
+	<string name="lbl_general">Umum</string>
+	<string name="lbl_get_pro_version">Dapatkan versi PRO</string>
+	<string name="lbl_enable_auto_start">Aktifkan mulai otomatis</string>
+	<string name="lbl_enable_auto_start_content">Pengelola mulai otomatis di Pengaturan perangkat Anda akan mencegah aplikasi berjalan di latar belakang. Anda harus memberikan izin ini agar aplikasi ini dapat berjalan di latar belakang.</string>
+	<string name="lbl_enable_start_in_background">Mulai di latar belakang di Pengaturan perangkat Anda akan mencegah aplikasi membuka pengaturan jendela. Anda harus memberikan izin ini agar aplikasi ini dapat bekerja secara normal.</string>
+</resources>

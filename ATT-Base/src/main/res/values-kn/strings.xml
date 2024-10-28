@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+	<string name="action_ok">ಸರಿ</string>
+	<string name="action_yes">ಹೌದು</string>
+	<string name="action_cancel">ರದ್ದುಮಾಡಿ</string>
+	<string name="action_done">ಮುಗಿದಿದೆ</string>
+	<string name="action_enable">ಸಕ್ರಿಯಗೊಳಿಸಿ</string>
+	<string name="action_ok_got_it">ಸರಿ, ಅರ್ಥ ಆಯಿತು</string>
+	<string name="action_ok_buy_now">ಸರಿ, ಇದೀಗ ಖರೀದಿಸಿ</string>
+	<string name="action_later">ನಂತರ</string>
+	<string name="action_no_thanks">ಬೇಡ ಧನ್ಯವಾದಗಳು</string>
+	<string name="msg_please_wait">ದಯಮಾಡಿ ನಿರೀಕ್ಷಿಸಿ…</string>
+	<string name="msg_restart_to_change_config">ಭಾಷೆಯನ್ನು ಬದಲಿಸಲು ಅಪ್ಲಿಕೇಶನ್ ಈಗ ಮರುಪ್ರಾರಂಭವಾಗುತ್ತದೆ</string>
+	<string name="lbl_auto">ಆಟೋ</string>
+	<string name="lbl_language">ಭಾಷೆ</string>
+	<string name="lbl_select_language">ಭಾಷೆಯನ್ನು ಆಯ್ಕೆಮಾಡಿ</string>
+	<string name="lbl_settings">ಸೆಟ್ಟಿಂಗ್ಗಳು</string>
+	<string name="lbl_general">ಜನರಲ್</string>
+	<string name="lbl_get_pro_version">ಪ್ರೊ ಆವೃತ್ತಿ ಪಡೆಯಿರಿ</string>
+	<string name="lbl_enable_auto_start">ಸ್ವಯಂ-ಪ್ರಾರಂಭವನ್ನು ಸಕ್ರಿಯಗೊಳಿಸಿ</string>
+	<string name="lbl_enable_auto_start_content">ನಿಮ್ಮ ಸಾಧನದ ಸೆಟ್ಟಿಂಗ್‌ಗಳಲ್ಲಿ ಸ್ವಯಂ-ಪ್ರಾರಂಭ ವ್ಯವಸ್ಥಾಪಕವು ಅಪ್ಲಿಕೇಶನ್‌ಗಳು ಹಿನ್ನೆಲೆಯಲ್ಲಿ ಕಾರ್ಯನಿರ್ವಹಿಸುವುದನ್ನು ತಡೆಯುತ್ತದೆ. ಈ ಅಪ್ಲಿಕೇಶನ್ ಹಿನ್ನೆಲೆಯಲ್ಲಿ ಚಲಾಯಿಸಲು ನೀವು ಈ ಅನುಮತಿಯನ್ನು ನೀಡಬೇಕು.</string>
+	<string name="lbl_enable_start_in_background">ನಿಮ್ಮ ಸಾಧನದ ಸೆಟ್ಟಿಂಗ್‌ಗಳಲ್ಲಿ ಹಿನ್ನೆಲೆಯಲ್ಲಿ ಪ್ರಾರಂಭಿಸಿ ಅಪ್ಲಿಕೇಶನ್‌ಗಳು ತೆರೆದ ವಿಂಡೋ ಸೆಟ್ಟಿಂಗ್ ಅನ್ನು ತಡೆಯುತ್ತದೆ. ಈ ಅಪ್ಲಿಕೇಶನ್ ಸಾಮಾನ್ಯವಾಗಿ ಕೆಲಸ ಮಾಡಲು ನೀವು ಈ ಅನುಮತಿಯನ್ನು ನೀಡಬೇಕು.</string>
+</resources>

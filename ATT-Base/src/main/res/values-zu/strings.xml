@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+	<string name="action_ok">KULUNGILE</string>
+	<string name="action_yes">Yebo</string>
+	<string name="action_cancel">Khansela</string>
+	<string name="action_done">Kwenziwe</string>
+	<string name="action_enable">Nika amandla</string>
+	<string name="action_ok_got_it">Kulungile, ngikuthole</string>
+	<string name="action_ok_buy_now">Kulungile, thenga manje</string>
+	<string name="action_later">Kamuva</string>
+	<string name="action_no_thanks">Cha ngiyabonga</string>
+	<string name="msg_please_wait">Ngicela ulinde…</string>
+	<string name="msg_restart_to_change_config">Uhlelo lokusebenza luzoqala kabusha manje ukusebenzisa ulimi luguquliwe</string>
+	<string name="lbl_auto">I-Auto</string>
+	<string name="lbl_language">Ulimi</string>
+	<string name="lbl_select_language">Khetha uLimi</string>
+	<string name="lbl_settings">Izilungiselelo</string>
+	<string name="lbl_general">Jikelele</string>
+	<string name="lbl_get_pro_version">Thola i-Pro Version</string>
+	<string name="lbl_enable_auto_start">Nika amandla ukuqala ngokuzenzakalela</string>
+	<string name="lbl_enable_auto_start_content">Umphathi wokuqalisa okuzenzakalelayo kuzilungiselelo zedivayisi yakho kuzovikela izinhlelo zokusebenza ukuthi zisebenze ngemuva. Kufanele unikeze le mvume yokuthi lolu hlelo lokusebenza lungasebenza ngemuva.</string>
+	<string name="lbl_enable_start_in_background">Qala ngemuva kuzilungiselelo zedivayisi yakho kuzovimbela izinhlelo zokusebenza ukuvula iwindi. Kufanele unikeze le mvume yokuthi lolu hlelo lokusebenza lungasebenza ngokujwayelekile.</string>
+</resources>

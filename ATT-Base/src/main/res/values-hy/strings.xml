@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+	<string name="action_ok">լավ</string>
+	<string name="action_yes">Այո</string>
+	<string name="action_cancel">Չեղարկել</string>
+	<string name="action_done">Կատարած</string>
+	<string name="action_enable">Միացնել</string>
+	<string name="action_ok_got_it">Լավ, հասկացա</string>
+	<string name="action_ok_buy_now">Լավ, գնեք հիմա</string>
+	<string name="action_later">Հետագայում</string>
+	<string name="action_no_thanks">Ոչ, շնորհակալություն</string>
+	<string name="msg_please_wait">Խնդրում ենք սպասել…</string>
+	<string name="msg_restart_to_change_config">Ծրագիրը կվերագործարկվի, որպեսզի փոխվի լեզուն</string>
+	<string name="lbl_auto">Ավտո</string>
+	<string name="lbl_language">Լեզու</string>
+	<string name="lbl_select_language">Ընտրել լեզուն</string>
+	<string name="lbl_settings">Կարգավորումներ</string>
+	<string name="lbl_general">Ընդհանուր</string>
+	<string name="lbl_get_pro_version">Ստացեք Pro տարբերակը</string>
+	<string name="lbl_enable_auto_start">Միացնել ավտո-սկիզբը</string>
+	<string name="lbl_enable_auto_start_content">Ձեր սարքի պարամետրերում ավտոմատ գործարկման մենեջերը կանխելու է ծրագրերի հետին պլանում: Այս ծրագրի համար դուք պետք է տրամադրեք այս թույլտվությունը, որը կարող է գործել հետին պլան:</string>
+	<string name="lbl_enable_start_in_background">Սկսեք հետին պլան ձեր սարքի պարամետրերը կանխելու են ծրագրերի բաց պատուհանի կարգավորումը: Պետք է այս թույլտվությունը տրամադրեք, որպեսզի այս ծրագիրը կարող է նորմալ աշխատել:</string>
+</resources>

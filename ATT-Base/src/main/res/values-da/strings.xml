@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+	<string name="action_ok">Okay</string>
+	<string name="action_yes">Ja</string>
+	<string name="action_cancel">Afbestille</string>
+	<string name="action_done">Færdig</string>
+	<string name="action_enable">Aktiver</string>
+	<string name="action_ok_got_it">Ok, forstået</string>
+	<string name="action_ok_buy_now">OK, køb nu</string>
+	<string name="action_later">Senere</string>
+	<string name="action_no_thanks">Nej tak</string>
+	<string name="msg_please_wait">Vent venligst…</string>
+	<string name="msg_restart_to_change_config">App vil genstarte nu for at anvende sprog ændret</string>
+	<string name="lbl_auto">Auto</string>
+	<string name="lbl_language">Sprog</string>
+	<string name="lbl_select_language">Vælg sprog</string>
+	<string name="lbl_settings">Indstillinger</string>
+	<string name="lbl_general">Generel</string>
+	<string name="lbl_get_pro_version">Få Pro Version</string>
+	<string name="lbl_enable_auto_start">Aktivér automatisk start</string>
+	<string name="lbl_enable_auto_start_content">Auto-start manager i Indstillinger på din enhed forhindrer apps i at køre i baggrunden. Du bør give denne tilladelse, for denne app kan køre i baggrunden.</string>
+	<string name="lbl_enable_start_in_background">Start i baggrunden i Indstillinger på din enhed vil forhindre apps i åben vinduesindstilling. Du bør give denne tilladelse for at denne app kan fungere normalt.</string>
+</resources>

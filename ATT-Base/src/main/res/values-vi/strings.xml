@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+	<string name="action_ok">Được</string>
+	<string name="action_yes">Vâng</string>
+	<string name="action_cancel">Hủy bỏ</string>
+	<string name="action_done">Làm xong</string>
+	<string name="action_enable">Bật</string>
+	<string name="action_ok_got_it">OK tôi đã hiểu</string>
+	<string name="action_ok_buy_now">OK, mua ngay</string>
+	<string name="action_later">Để sau</string>
+	<string name="action_no_thanks">Không, cám ơn</string>
+	<string name="msg_please_wait">Vui lòng chờ…</string>
+	<string name="msg_restart_to_change_config">Ứng dụng sẽ khởi động lại ngay bây giờ để áp dụng ngôn ngữ đã thay đổi</string>
+	<string name="lbl_auto">Tự động</string>
+	<string name="lbl_language">Ngôn ngữ</string>
+	<string name="lbl_select_language">Chọn ngôn ngữ</string>
+	<string name="lbl_settings">Cài đặt</string>
+	<string name="lbl_general">Chung</string>
+	<string name="lbl_get_pro_version">Nhận phiên bản chuyên nghiệp</string>
+	<string name="lbl_enable_auto_start">Bật tự khởi động</string>
+	<string name="lbl_enable_auto_start_content">Trình quản lý tự khởi động trong Cài đặt của thiết bị sẽ ngăn các ứng dụng chạy ở chế độ nền. Bạn nên cấp quyền này cho ứng dụng này có thể chạy trong nền.</string>
+	<string name="lbl_enable_start_in_background">Bắt đầu ở chế độ nền trong Cài đặt của thiết bị sẽ ngăn ứng dụng mở cài đặt cửa sổ. Bạn nên cấp quyền này cho ứng dụng này có thể hoạt động bình thường.</string>
+</resources>

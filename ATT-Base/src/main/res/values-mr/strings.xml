@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+	<string name="action_ok">ठीक आहे</string>
+	<string name="action_yes">होय</string>
+	<string name="action_cancel">रद्द करा</string>
+	<string name="action_done">झाले</string>
+	<string name="action_enable">सक्षम करा</string>
+	<string name="action_ok_got_it">ठीक आहे, समजले</string>
+	<string name="action_ok_buy_now">ठीक, आता विकत घ्या</string>
+	<string name="action_later">नंतर</string>
+	<string name="action_no_thanks">नको धन्यवाद</string>
+	<string name="msg_please_wait">कृपया थांबा…</string>
+	<string name="msg_restart_to_change_config">अॅप आता बदललेली भाषा लागू करण्यासाठी रीस्टार्ट करेल</string>
+	<string name="lbl_auto">स्वयं</string>
+	<string name="lbl_language">भाषा</string>
+	<string name="lbl_select_language">भाषा निवडा</string>
+	<string name="lbl_settings">सेटिंग्ज</string>
+	<string name="lbl_general">सामान्य</string>
+	<string name="lbl_get_pro_version">प्रो आवृत्ती मिळवा</string>
+	<string name="lbl_enable_auto_start">स्वयं-प्रारंभ सक्षम करा</string>
+	<string name="lbl_enable_auto_start_content">आपल्या डिव्हाइसच्या सेटिंग्जमधील स्वयं-प्रारंभ व्यवस्थापक अ‍ॅप्सला पार्श्वभूमीत चालण्यापासून प्रतिबंधित करेल. हा अ‍ॅप पार्श्वभूमीवर चालू शकतो यासाठी आपण ही परवानगी मंजूर केली पाहिजे.</string>
+	<string name="lbl_enable_start_in_background">आपल्‍या डिव्‍हाइसच्या सेटिंग्‍जमधील पार्श्वभूमीवर प्रारंभ केल्याने अ‍ॅप्‍सना ओपन विंडो सेटिंग्‍ज प्रतिबंधित होईल. हा अ‍ॅप सामान्यपणे कार्य करू शकेल यासाठी आपण ही परवानगी मंजूर केली पाहिजे.</string>
+</resources>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+	<string name="action_ok">Gerai</string>
+	<string name="action_yes">Taip</string>
+	<string name="action_cancel">Atšaukti</string>
+	<string name="action_done">Padaryta</string>
+	<string name="action_enable">Įgalinti</string>
+	<string name="action_ok_got_it">Gerai supratau</string>
+	<string name="action_ok_buy_now">Gerai, nusipirk dabar</string>
+	<string name="action_later">Vėliau</string>
+	<string name="action_no_thanks">Ne, ačiū</string>
+	<string name="msg_please_wait">Prašau palauk…</string>
+	<string name="msg_restart_to_change_config">Dabar programa bus iš naujo paleista, kad pakeistumėte kalbą</string>
+	<string name="lbl_auto">Automatinis</string>
+	<string name="lbl_language">Kalba</string>
+	<string name="lbl_select_language">Pasirinkite kalbą</string>
+	<string name="lbl_settings">Nustatymai</string>
+	<string name="lbl_general">Generalinis direktorius</string>
+	<string name="lbl_get_pro_version">Gaukite Pro versiją</string>
+	<string name="lbl_enable_auto_start">Įgalinti automatinį paleidimą</string>
+	<string name="lbl_enable_auto_start_content">Automatinio paleidimo tvarkyklė jūsų įrenginio nustatymuose neleis programoms veikti fone. Turėtumėte suteikti šį leidimą, nes ši programa gali veikti fone.</string>
+	<string name="lbl_enable_start_in_background">Pradėkite fone, esančiame jūsų įrenginio parametruose, neleidžiant programoms atidaryti langų nustatymų. Turėtumėte suteikti šį leidimą, nes ši programa gali normaliai veikti.</string>
+</resources>

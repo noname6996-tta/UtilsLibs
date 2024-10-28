@@ -14,4 +14,7 @@
     <string name="next_step_button">Navigation next step</string>
     <string name="navigate_bottom_deeplink">Navigation to bottom deeplink</string>
     <string name="home">Home</string>
+
+    <string name="msg_restart_to_change_config">App will restart now to apply language changes.</string>
+    <string name="msg_applying_theme">Applying theme</string>
 </resources>

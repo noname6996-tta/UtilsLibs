@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+	<string name="action_ok">Okey</string>
+	<string name="action_yes">Ya</string>
+	<string name="action_cancel">Batalkan</string>
+	<string name="action_done">Selesai</string>
+	<string name="action_enable">Dayakan</string>
+	<string name="action_ok_got_it">OK, dapatkannya</string>
+	<string name="action_ok_buy_now">OK, beli sekarang</string>
+	<string name="action_later">Kemudian</string>
+	<string name="action_no_thanks">Tidak, Terima kasih</string>
+	<string name="msg_please_wait">Sila tunggu…</string>
+	<string name="msg_restart_to_change_config">App akan dimulakan semula untuk menerapkan bahasa berubah</string>
+	<string name="lbl_auto">Auto</string>
+	<string name="lbl_language">Bahasa</string>
+	<string name="lbl_select_language">Pilih Bahasa</string>
+	<string name="lbl_settings">Tetapan</string>
+	<string name="lbl_general">Ketua</string>
+	<string name="lbl_get_pro_version">Dapatkan Versi Pro</string>
+	<string name="lbl_enable_auto_start">Dayakan auto-mula</string>
+	<string name="lbl_enable_auto_start_content">Pengatur permulaan automatik dalam Tetapan peranti anda akan menghalang aplikasi berjalan di latar belakang. Anda harus memberikan kebenaran ini kerana aplikasi ini dapat berjalan di latar belakang.</string>
+	<string name="lbl_enable_start_in_background">Mulakan di latar belakang di Tetapan peranti anda akan menghalang aplikasi tetapan tetingkap terbuka. Anda harus memberikan kebenaran ini kerana aplikasi ini dapat berfungsi seperti biasa.</string>
+</resources>

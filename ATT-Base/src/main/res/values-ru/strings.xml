@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+	<string name="action_ok">ОК</string>
+	<string name="action_yes">да</string>
+	<string name="action_cancel">Отмена</string>
+	<string name="action_done">Готово</string>
+	<string name="action_enable">включить</string>
+	<string name="action_ok_got_it">Хорошо понял</string>
+	<string name="action_ok_buy_now">Хорошо, купите сейчас</string>
+	<string name="action_later">Позже</string>
+	<string name="action_no_thanks">Нет, спасибо</string>
+	<string name="msg_please_wait">Пожалуйста, подождите…</string>
+	<string name="msg_restart_to_change_config">Приложение перезапустится сейчас, чтобы применить измененный язык</string>
+	<string name="lbl_auto">Авто</string>
+	<string name="lbl_language">язык</string>
+	<string name="lbl_select_language">Выберите язык</string>
+	<string name="lbl_settings">настройки</string>
+	<string name="lbl_general">Генеральная</string>
+	<string name="lbl_get_pro_version">Получить версию Pro</string>
+	<string name="lbl_enable_auto_start">Включить автозапуск</string>
+	<string name="lbl_enable_auto_start_content">Диспетчер автозапуска в настройках вашего устройства предотвратит запуск приложений в фоновом режиме. Вы должны предоставить это разрешение для этого приложения может работать в фоновом режиме.</string>
+	<string name="lbl_enable_start_in_background">Запуск в фоновом режиме в настройках вашего устройства будет препятствовать настройке открытого окна приложения. Вы должны предоставить это разрешение для этого приложения может работать нормально.</string>
+</resources>

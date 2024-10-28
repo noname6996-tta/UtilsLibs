@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+	<string name="action_ok">Εντάξει</string>
+	<string name="action_yes">Ναί</string>
+	<string name="action_cancel">Ματαίωση</string>
+	<string name="action_done">Εγινε</string>
+	<string name="action_enable">επιτρέπω</string>
+	<string name="action_ok_got_it">Εντάξει το κατάλαβα</string>
+	<string name="action_ok_buy_now">Εντάξει, αγοράστε τώρα</string>
+	<string name="action_later">Αργότερα</string>
+	<string name="action_no_thanks">Οχι ευχαριστώ</string>
+	<string name="msg_please_wait">Παρακαλώ περιμένετε…</string>
+	<string name="msg_restart_to_change_config">Η εφαρμογή θα γίνει επανεκκίνηση τώρα για να αλλάξει η γλώσσα</string>
+	<string name="lbl_auto">Αυτο</string>
+	<string name="lbl_language">Γλώσσα</string>
+	<string name="lbl_select_language">Επιλέξτε γλώσσα</string>
+	<string name="lbl_settings">Ρυθμίσεις</string>
+	<string name="lbl_general">Γενικός</string>
+	<string name="lbl_get_pro_version">Αποκτήστε έκδοση Pro</string>
+	<string name="lbl_enable_auto_start">Ενεργοποιήστε την αυτόματη εκκίνηση</string>
+	<string name="lbl_enable_auto_start_content">Η αυτόματη εκκίνηση του διαχειριστή στις Ρυθμίσεις της συσκευής σας θα αποτρέψει την εκτέλεση εφαρμογών στο παρασκήνιο. Θα πρέπει να εκχωρήσετε αυτήν την άδεια για αυτήν την εφαρμογή να μπορεί να εκτελείται στο παρασκήνιο.</string>
+	<string name="lbl_enable_start_in_background">Ξεκινήστε στο παρασκήνιο στις Ρυθμίσεις της συσκευής σας θα αποτρέψει τη ρύθμιση παραθύρου στο άνοιγμα των εφαρμογών. Θα πρέπει να εκχωρήσετε αυτήν την άδεια για αυτήν την εφαρμογή να λειτουργεί κανονικά.</string>
+</resources>

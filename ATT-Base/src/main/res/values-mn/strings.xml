@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+	<string name="action_ok">БОЛЖ БАЙНА УУ</string>
+	<string name="action_yes">Тиймээ</string>
+	<string name="action_cancel">Цуцлах</string>
+	<string name="action_done">Үүнийг хийлээ</string>
+	<string name="action_enable">Бататгах</string>
+	<string name="action_ok_got_it">Ойлголоо</string>
+	<string name="action_ok_buy_now">За, одоо худалдаж аваарай</string>
+	<string name="action_later">Дараа нь</string>
+	<string name="action_no_thanks">Үгүй ээ баярлалаа</string>
+	<string name="msg_please_wait">Түр хүлээнэ үү ...</string>
+	<string name="msg_restart_to_change_config">Хэлний өөрчлөлтийг ашиглахын тулд апп-ыг дахин эхлүүлнэ үү</string>
+	<string name="lbl_auto">Авто</string>
+	<string name="lbl_language">Хэл</string>
+	<string name="lbl_select_language">Хэл сонгох</string>
+	<string name="lbl_settings">Тохиргоо</string>
+	<string name="lbl_general">Ерөнхий зүйл</string>
+	<string name="lbl_get_pro_version">Pro хувилбарыг авах</string>
+	<string name="lbl_enable_auto_start">Авто-эхлэхийг идэвхжүүлнэ</string>
+	<string name="lbl_enable_auto_start_content">Таны төхөөрөмжийн Тохиргоон дотор автоматаар эхлүүлэх менежер нь апп-ыг далд ажиллуулахаас сэргийлдэг. Энэ апп-д далд ажиллуулах боломжтой байх зөвшөөрлийг та өгөх шаардлагатай.</string>
+	<string name="lbl_enable_start_in_background">Төхөөрөмжийн Тохиргоон дотор далд ажиллаж эхлэх нь цонх нээхийг хориглох болно. Та энэ апп хэвийн ажиллахын тулд энэ зөвшөөрлийг өгөх шаардлагатай.</string>
+</resources>

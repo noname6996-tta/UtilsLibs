@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+	<string name="action_ok">Ados</string>
+	<string name="action_yes">Bai</string>
+	<string name="action_cancel">Utzi</string>
+	<string name="action_done">Done</string>
+	<string name="action_enable">Gaitu</string>
+	<string name="action_ok_got_it">Ados, lortu</string>
+	<string name="action_ok_buy_now">OK, erosi orain</string>
+	<string name="action_later">Beranduago</string>
+	<string name="action_no_thanks">Ez eskerrik asko</string>
+	<string name="msg_please_wait">Itxaron mesedez…</string>
+	<string name="msg_restart_to_change_config">Aplikazioa berrabiarazi egingo da hizkuntza aldatua aplikatzeko</string>
+	<string name="lbl_auto">Auto</string>
+	<string name="lbl_language">Hizkuntza</string>
+	<string name="lbl_select_language">Hautatu hizkuntza</string>
+	<string name="lbl_settings">Ezarpenak</string>
+	<string name="lbl_general">General</string>
+	<string name="lbl_get_pro_version">Talde Pro bertsioa</string>
+	<string name="lbl_enable_auto_start">Gaitu auto-hasiera</string>
+	<string name="lbl_enable_auto_start_content">Auto-abiarazte kudeatzailearen gailuaren ezarpenetan aplikazioak atzeko planoan exekutatzea eragotziko du. Baimena eman beharko zenuke aplikazio honek atzeko planoan exekutatu ahal izateko.</string>
+	<string name="lbl_enable_start_in_background">Hasi atzeko planoan Zure gailuaren ezarpenetan aplikazioak leihoaren ezarpena irekitzea eragotziko du. Aplikazio hau normaltasunez funtzionatzeko baimena eman beharko zenuke.</string>
+</resources>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+	<string name="action_ok">Está bem</string>
+	<string name="action_yes">Sim</string>
+	<string name="action_cancel">Cancelar</string>
+	<string name="action_done">Feito</string>
+	<string name="action_enable">Habilitar</string>
+	<string name="action_ok_got_it">OK, entendi</string>
+	<string name="action_ok_buy_now">OK, compre agora</string>
+	<string name="action_later">Mais tarde</string>
+	<string name="action_no_thanks">Não, obrigado</string>
+	<string name="msg_please_wait">Por favor, espere…</string>
+	<string name="msg_restart_to_change_config">App será reiniciado agora para aplicar o idioma alterado</string>
+	<string name="lbl_auto">Auto</string>
+	<string name="lbl_language">Língua</string>
+	<string name="lbl_select_language">Selecione o idioma</string>
+	<string name="lbl_settings">Configurações</string>
+	<string name="lbl_general">Geral</string>
+	<string name="lbl_get_pro_version">Adquira versão Pro</string>
+	<string name="lbl_enable_auto_start">Ativar início automático</string>
+	<string name="lbl_enable_auto_start_content">A inicialização automática do gerenciador nas configurações do seu dispositivo impedirá a execução de aplicativos em segundo plano. Você deve conceder essa permissão para que o aplicativo possa ser executado em segundo plano.</string>
+	<string name="lbl_enable_start_in_background">Iniciar em segundo plano em Configurações do seu dispositivo impedirá que os aplicativos abram a configuração da janela. Você deve conceder essa permissão para que este aplicativo possa funcionar normalmente.</string>
+</resources>

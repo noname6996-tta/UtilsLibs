@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+	<string name="action_ok">خوب</string>
+	<string name="action_yes">بله</string>
+	<string name="action_cancel">لغو</string>
+	<string name="action_done">انجام شده</string>
+	<string name="action_enable">فعال کردن</string>
+	<string name="action_ok_got_it">باشه فهمیدم</string>
+	<string name="action_ok_buy_now">خوب، الان خرید کن</string>
+	<string name="action_later">بعد</string>
+	<string name="action_no_thanks">نه ممنون</string>
+	<string name="msg_please_wait">لطفا صبر کنید…</string>
+	<string name="msg_restart_to_change_config">برنامه اکنون برای تغییر زبان تغییر خواهد کرد</string>
+	<string name="lbl_auto">خودکار</string>
+	<string name="lbl_language">زبان</string>
+	<string name="lbl_select_language">زبان را انتخاب کنید</string>
+	<string name="lbl_settings">تنظیمات</string>
+	<string name="lbl_general">عمومی</string>
+	<string name="lbl_get_pro_version">نسخه حرفه ای را دریافت کن</string>
+	<string name="lbl_enable_auto_start">فعال کردن شروع خودکار</string>
+	<string name="lbl_enable_auto_start_content">مدیر شروع خودکار در تنظیمات دستگاه شما از اجرای برنامه در پس زمینه جلوگیری می کند. شما باید این مجوز را به این برنامه اعطا کنید که می تواند در پس زمینه اجرا شود.</string>
+	<string name="lbl_enable_start_in_background">شروع در پس زمینه در تنظیمات دستگاه شما از تنظیم پنجره باز برنامه جلوگیری می کند. شما باید این مجوز را برای این برنامه اعطا کنید که می تواند به طور عادی کار کند.</string>
+</resources>

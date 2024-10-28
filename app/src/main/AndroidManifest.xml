@@ -55,6 +55,15 @@
         android:theme="@style/Theme.Utils"
         tools:targetApi="31">
         <activity
+            android:name=".language.LanguageActivity"
+            android:exported="true" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
             android:name=".recycler_view_utils.swipe.RecycleViewSwipeActivity"
             android:exported="false" />
         <activity android:name=".security_utils.SecurityUtilsActivity" />
@@ -76,13 +85,14 @@
         <activity android:name=".color_utils.ColorUtilsActivity" />
         <activity android:name=".activity_utils.ActiUtilsActivity" />
         <activity
+            android:name=".language.TransferChangeLanguageActivity"
+            android:screenOrientation="portrait"
+            tools:ignore="DiscouragedApi,LockedOrientationActivity"
+            android:theme="@style/TransferChangeLanguageTheme">
+        </activity>
+        <activity
             android:name=".main.MainActivity"
-            android:exported="true">
-            <intent-filter>
-                <action android:name="android.intent.action.MAIN" />
-
-                <category android:name="android.intent.category.LAUNCHER" />
-            </intent-filter>
+            android:exported="false">
         </activity>
 
         <provider

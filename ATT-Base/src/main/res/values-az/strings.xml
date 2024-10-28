@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+	<string name="action_ok">Tamam</string>
+	<string name="action_yes">Bəli</string>
+	<string name="action_cancel">Ləğv et</string>
+	<string name="action_done">Done</string>
+	<string name="action_enable">Enable</string>
+	<string name="action_ok_got_it">Yaxşı anladım</string>
+	<string name="action_ok_buy_now">Tamam, indi al</string>
+	<string name="action_later">Daha sonra</string>
+	<string name="action_no_thanks">Xeyr, təşəkkürlər</string>
+	<string name="msg_please_wait">Zəhmət olmasa, gözləyin…</string>
+	<string name="msg_restart_to_change_config">İndi dəyişən dili tətbiq etmək üçün tətbiq yenidən başlayacaq</string>
+	<string name="lbl_auto">Avto</string>
+	<string name="lbl_language">Dil</string>
+	<string name="lbl_select_language">Dil seçin</string>
+	<string name="lbl_settings">Ayarlar</string>
+	<string name="lbl_general">Ümumi</string>
+	<string name="lbl_get_pro_version">Pro versiyasını alın</string>
+	<string name="lbl_enable_auto_start">Avtomatik başlanğıcı aktiv edin</string>
+	<string name="lbl_enable_auto_start_content">Cihazınızın Parametrlərindəki avtomatik başlatma meneceri tətbiqlərin arxa plana keçməsinin qarşısını alacaqdır. Bu tətbiqin arxa planda işləyə bilməsi üçün bu icazəni verməlisiniz.</string>
+	<string name="lbl_enable_start_in_background">Cihazınızın Parametrlərindəki arxa planda başlamağınız tətbiqlərin açıq pəncərə parametrlərini qarşısını alacaqdır. Bu tətbiqin normal işləyə bilməsi üçün bu icazəni verməlisiniz.</string>
+</resources>

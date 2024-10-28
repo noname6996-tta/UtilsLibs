@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+	<string name="action_ok">OK</string>
+	<string name="action_yes">Ja</string>
+	<string name="action_cancel">Stornieren</string>
+	<string name="action_done">Erledigt</string>
+	<string name="action_enable">Aktivieren</string>
+	<string name="action_ok_got_it">OK habe es</string>
+	<string name="action_ok_buy_now">OK, kaufe jetzt</string>
+	<string name="action_later">Später</string>
+	<string name="action_no_thanks">Nein Danke</string>
+	<string name="msg_please_wait">Warten Sie mal…</string>
+	<string name="msg_restart_to_change_config">Die App wird jetzt neu gestartet, um die geänderte Sprache anzuwenden</string>
+	<string name="lbl_auto">Auto</string>
+	<string name="lbl_language">Sprache</string>
+	<string name="lbl_select_language">Sprache auswählen</string>
+	<string name="lbl_settings">Die Einstellungen</string>
+	<string name="lbl_general">Allgemeines</string>
+	<string name="lbl_get_pro_version">Pro-Version holen</string>
+	<string name="lbl_enable_auto_start">Aktivieren Sie den automatischen Start</string>
+	<string name="lbl_enable_auto_start_content">Der Autostart-Manager in den Einstellungen Ihres Geräts verhindert, dass Apps im Hintergrund ausgeführt werden. Sie sollten diese Berechtigung erteilen, damit diese App im Hintergrund ausgeführt werden kann.</string>
+	<string name="lbl_enable_start_in_background">Wenn Sie im Hintergrund in den Einstellungen Ihres Geräts beginnen, wird verhindert, dass Apps Fenster öffnen. Sie sollten diese Berechtigung erteilen, damit diese App normal funktioniert.</string>
+</resources>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+	<string name="action_ok">добра</string>
+	<string name="action_yes">ды</string>
+	<string name="action_cancel">адмяніць</string>
+	<string name="action_done">зроблена</string>
+	<string name="action_enable">ўключыць</string>
+	<string name="action_ok_got_it">Добра, ён атрымаў</string>
+	<string name="action_ok_buy_now">Добра, купіць зараз</string>
+	<string name="action_later">пазней</string>
+	<string name="action_no_thanks">Не, дзякуй</string>
+	<string name="msg_please_wait">Калі ласка пачакай…</string>
+	<string name="msg_restart_to_change_config">App будзе перазагрузіць кампутар зараз, каб прымяніць мова змяніўся</string>
+	<string name="lbl_auto">аўтаматычны</string>
+	<string name="lbl_language">мова</string>
+	<string name="lbl_select_language">выбар мовы</string>
+	<string name="lbl_settings">налады</string>
+	<string name="lbl_general">агульны</string>
+	<string name="lbl_get_pro_version">Атрымаць Pro версіі</string>
+	<string name="lbl_enable_auto_start">Ўключэнне аўтаматычнага запуску</string>
+	<string name="lbl_enable_auto_start_content">Дыспетчар аўтазапуску ў наладах вашага прылады не дапусціць запуску прыкладанняў у фонавым рэжыме. Вы павінны даць гэта дазвол, каб гэта дадатак можа працаваць у фонавым рэжыме.</string>
+	<string name="lbl_enable_start_in_background">Пачаць у фонавым рэжыме ў наладах вашага прылады, каб перашкодзіць прыкладанні адкрыць акно. Вы павінны даць гэты дазвол, калі гэта дадатак можа працаваць нармальна.</string>
+</resources>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+	<string name="action_ok">Labi</string>
+	<string name="action_yes">Jā</string>
+	<string name="action_cancel">Atcelt</string>
+	<string name="action_done">Gatavs</string>
+	<string name="action_enable">Iespējot</string>
+	<string name="action_ok_got_it">Labi, sapratu</string>
+	<string name="action_ok_buy_now">Labi, nopirkt tagad</string>
+	<string name="action_later">Vēlāk</string>
+	<string name="action_no_thanks">Nē paldies</string>
+	<string name="msg_please_wait">Lūdzu uzgaidiet…</string>
+	<string name="msg_restart_to_change_config">Lietotne tagad restartēsies, lai piemērotu mainīto valodu</string>
+	<string name="lbl_auto">Auto</string>
+	<string name="lbl_language">Valoda</string>
+	<string name="lbl_select_language">Izvēlēties valodu</string>
+	<string name="lbl_settings">Iestatījumi</string>
+	<string name="lbl_general">Ģenerālis</string>
+	<string name="lbl_get_pro_version">Get Pro versiju</string>
+	<string name="lbl_enable_auto_start">Iespējot automātisko palaišanu</string>
+	<string name="lbl_enable_auto_start_content">Automātiskās palaišanas pārvaldnieks ierīces iestatījumos neļaus lietotnēm darboties fonā. Jums vajadzētu piešķirt šo atļauju, jo šī lietotne var darboties fonā.</string>
+	<string name="lbl_enable_start_in_background">Sākt fonā ierīces iestatījumos neļaus lietotnēm atvērt loga iestatījumus. Jums vajadzētu piešķirt šo atļauju, jo šī lietotne var normāli darboties.</string>
+</resources>

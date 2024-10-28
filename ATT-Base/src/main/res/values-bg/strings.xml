@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+	<string name="action_ok">Добре</string>
+	<string name="action_yes">да</string>
+	<string name="action_cancel">Отказ</string>
+	<string name="action_done">Свършен</string>
+	<string name="action_enable">Активиране</string>
+	<string name="action_ok_got_it">Добре, разбрах</string>
+	<string name="action_ok_buy_now">Добре, купи сега</string>
+	<string name="action_later">По късно</string>
+	<string name="action_no_thanks">Не благодаря</string>
+	<string name="msg_please_wait">Моля Изчакай…</string>
+	<string name="msg_restart_to_change_config">Приложението ще се рестартира сега, за да се приложи език, променен</string>
+	<string name="lbl_auto">Автоматичен</string>
+	<string name="lbl_language">език</string>
+	<string name="lbl_select_language">Избери език</string>
+	<string name="lbl_settings">Настройки</string>
+	<string name="lbl_general">Общ</string>
+	<string name="lbl_get_pro_version">Изтеглете Pro версия</string>
+	<string name="lbl_enable_auto_start">Активиране на автоматичното стартиране</string>
+	<string name="lbl_enable_auto_start_content">Мениджърът за автоматично стартиране в Настройки на вашето устройство ще попречи на приложенията да се изпълняват във фонов режим. Трябва да предоставите това разрешение за това приложение да може да работи във фонов режим.</string>
+	<string name="lbl_enable_start_in_background">Започнете на заден план в Настройки на вашето устройство, ще попречи на приложенията да отворят настройката на прозореца. Трябва да предоставите това разрешение за това приложение може да работи нормално.</string>
+</resources>

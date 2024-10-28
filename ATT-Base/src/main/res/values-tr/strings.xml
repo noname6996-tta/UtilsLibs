@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+	<string name="action_ok">Tamam</string>
+	<string name="action_yes">Evet</string>
+	<string name="action_cancel">İptal etmek</string>
+	<string name="action_done">Tamam</string>
+	<string name="action_enable">Etkinleştirme</string>
+	<string name="action_ok_got_it">Tamam anladım</string>
+	<string name="action_ok_buy_now">Tamam, şimdi al</string>
+	<string name="action_later">Sonra</string>
+	<string name="action_no_thanks">Hayır teşekkürler</string>
+	<string name="msg_please_wait">Lütfen bekle…</string>
+	<string name="msg_restart_to_change_config">Uygulama dil değiştirilmek için şimdi yeniden başlayacak</string>
+	<string name="lbl_auto">Oto</string>
+	<string name="lbl_language">Dil</string>
+	<string name="lbl_select_language">Dil Seçin</string>
+	<string name="lbl_settings">Ayarlar</string>
+	<string name="lbl_general">Genel</string>
+	<string name="lbl_get_pro_version">Pro Sürümünü Alın</string>
+	<string name="lbl_enable_auto_start">Otomatik başlatmayı etkinleştir</string>
+	<string name="lbl_enable_auto_start_content">Cihazınızın Ayarlar bölümündeki otomatik başlat yöneticisi, uygulamaların arka planda çalışmasını engelleyecektir. Bu uygulama arka planda çalışabilmesi için bu izni vermelisiniz.</string>
+	<string name="lbl_enable_start_in_background">Cihazınızın Ayarlar bölümünden arka planda başlayın, uygulamaların pencere ayarını açmasını engeller. Bu uygulamanın normal çalışabilmesi için bu izni vermelisiniz.</string>
+</resources>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+	<string name="action_ok">حسنا</string>
+	<string name="action_yes">نعم فعلا</string>
+	<string name="action_cancel">إلغاء</string>
+	<string name="action_done">فعله</string>
+	<string name="action_enable">مكن</string>
+	<string name="action_ok_got_it">حسنًا ، حسنًا</string>
+	<string name="action_ok_buy_now">حسنًا ، اشترِ الآن</string>
+	<string name="action_later">في وقت لاحق</string>
+	<string name="action_no_thanks">لا شكرا</string>
+	<string name="msg_please_wait">أرجو الإنتظار…</string>
+	<string name="msg_restart_to_change_config">سيتم إعادة تشغيل التطبيق الآن لتطبيق اللغة التي تم تغييرها</string>
+	<string name="lbl_auto">تلقاءي</string>
+	<string name="lbl_language">لغة</string>
+	<string name="lbl_select_language">اختار اللغة</string>
+	<string name="lbl_settings">إعدادات</string>
+	<string name="lbl_general">جنرال لواء</string>
+	<string name="lbl_get_pro_version">احصل على نسخة برو</string>
+	<string name="lbl_enable_auto_start">تمكين البدء التلقائي</string>
+	<string name="lbl_enable_auto_start_content">مدير البدء التلقائي في إعدادات جهازك سيمنع تشغيل التطبيقات في الخلفية. يجب أن تمنح هذا الإذن لتشغيل هذا التطبيق في الخلفية.</string>
+	<string name="lbl_enable_start_in_background">البدء في الخلفية في إعدادات جهازك سيمنع التطبيقات من فتح النافذة. يجب عليك منح هذا الإذن لهذا التطبيق يمكن أن يعمل بشكل طبيعي.</string>
+</resources>

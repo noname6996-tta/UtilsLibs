@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+	<string name="action_ok">Kunnossa</string>
+	<string name="action_yes">Joo</string>
+	<string name="action_cancel">Peruuttaa</string>
+	<string name="action_done">Tehty</string>
+	<string name="action_enable">Ota käyttöön</string>
+	<string name="action_ok_got_it">OK tajusin</string>
+	<string name="action_ok_buy_now">OK, osta nyt</string>
+	<string name="action_later">Myöhemmin</string>
+	<string name="action_no_thanks">Ei kiitos</string>
+	<string name="msg_please_wait">Odota…</string>
+	<string name="msg_restart_to_change_config">Sovelluksen uudelleenkäynnistäminen nyt soveltaa kieltä muuttuu</string>
+	<string name="lbl_auto">Auto</string>
+	<string name="lbl_language">Kieli</string>
+	<string name="lbl_select_language">Valitse kieli</string>
+	<string name="lbl_settings">Asetukset</string>
+	<string name="lbl_general">Yleinen</string>
+	<string name="lbl_get_pro_version">Hanki Pro-versio</string>
+	<string name="lbl_enable_auto_start">Ota automaattinen käynnistys käyttöön</string>
+	<string name="lbl_enable_auto_start_content">Laitteesi asetusten automaattinen käynnistyshallinta estää sovelluksia toimimasta taustalla. Sinun pitäisi myöntää tämä lupa, koska sovellus voi toimia taustalla.</string>
+	<string name="lbl_enable_start_in_background">Aloita taustalla laitteen Asetukset-sovelluksessa estää sovelluksia avaamasta ikkunoita. Sinun pitäisi antaa tämä lupa, koska tämä sovellus voi toimia normaalisti.</string>
+</resources>

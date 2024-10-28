@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+	<string name="action_ok">ок</string>
+	<string name="action_yes">да</string>
+	<string name="action_cancel">Поништити, отказати</string>
+	<string name="action_done">Готово</string>
+	<string name="action_enable">Омогући</string>
+	<string name="action_ok_got_it">У реду, схватио сам</string>
+	<string name="action_ok_buy_now">ОК, купи сада</string>
+	<string name="action_later">Касније</string>
+	<string name="action_no_thanks">Не хвала</string>
+	<string name="msg_please_wait">Сачекајте…</string>
+	<string name="msg_restart_to_change_config">Апликација ће се поново покренути да би се језик променио</string>
+	<string name="lbl_auto">Ауто</string>
+	<string name="lbl_language">Језик</string>
+	<string name="lbl_select_language">Изаберите Језик</string>
+	<string name="lbl_settings">Подешавања</string>
+	<string name="lbl_general">Генерал</string>
+	<string name="lbl_get_pro_version">Гет Про Верзија</string>
+	<string name="lbl_enable_auto_start">Омогућите аутоматско покретање</string>
+	<string name="lbl_enable_auto_start_content">Менаџер аутоматског покретања у подешавањима вашег уређаја спречиће да се апликације приказују у позадини. Омогућите ову дозволу да се ова апликација може изводити у позадини.</string>
+	<string name="lbl_enable_start_in_background">Покретање у позадини у подешавањима вашег уређаја спречаваће отварање поставки прозора. Омогућите ову дозволу да ова апликација може нормално радити.</string>
+</resources>

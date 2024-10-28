@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+	<string name="action_ok">ശരി</string>
+	<string name="action_yes">അതെ</string>
+	<string name="action_cancel">റദ്ദാക്കുക</string>
+	<string name="action_done">ചെയ്തുകഴിഞ്ഞു</string>
+	<string name="action_enable">പ്രാപ്തമാക്കുക</string>
+	<string name="action_ok_got_it">മനസ്സിലായി</string>
+	<string name="action_ok_buy_now">ശരി, ഇപ്പോൾ വാങ്ങുക</string>
+	<string name="action_later">പിന്നീട്</string>
+	<string name="action_no_thanks">വേണ്ട, നന്ദി</string>
+	<string name="msg_please_wait">കാത്തിരിക്കൂ…</string>
+	<string name="msg_restart_to_change_config">ഭാഷ മാറ്റുന്നതിന് അപ്ലിക്കേഷൻ ഇപ്പോൾ പുനരാരംഭിക്കും</string>
+	<string name="lbl_auto">ഓട്ടോ</string>
+	<string name="lbl_language">ഭാഷ</string>
+	<string name="lbl_select_language">ഭാഷ തിരഞ്ഞെടുക്കുക</string>
+	<string name="lbl_settings">ക്രമീകരണങ്ങൾ</string>
+	<string name="lbl_general">ജനറൽ</string>
+	<string name="lbl_get_pro_version">പ്രോ പതിപ്പ് നേടുക</string>
+	<string name="lbl_enable_auto_start">യാന്ത്രിക-ആരംഭിക്കൽ പ്രാപ്തമാക്കുക</string>
+	<string name="lbl_enable_auto_start_content">നിങ്ങളുടെ ഉപകരണത്തിന്റെ ക്രമീകരണങ്ങളിലെ യാന്ത്രിക-ആരംഭ മാനേജർ അപ്ലിക്കേഷനുകൾ പശ്ചാത്തലത്തിൽ പ്രവർത്തിക്കുന്നതിൽ നിന്ന് തടയും. ഈ അപ്ലിക്കേഷന് പശ്ചാത്തലത്തിൽ പ്രവർത്തിക്കാൻ നിങ്ങൾ ഈ അനുമതി നൽകണം.</string>
+	<string name="lbl_enable_start_in_background">നിങ്ങളുടെ ഉപകരണത്തിന്റെ ക്രമീകരണങ്ങളിൽ പശ്ചാത്തലത്തിൽ ആരംഭിക്കുന്നത് അപ്ലിക്കേഷനുകൾ ഓപ്പൺ വിൻഡോ ക്രമീകരണം തടയും. ഈ അപ്ലിക്കേഷന് സാധാരണയായി പ്രവർത്തിക്കാൻ നിങ്ങൾ ഈ അനുമതി നൽകണം.</string>
+</resources>

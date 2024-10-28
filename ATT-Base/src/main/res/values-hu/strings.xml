@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+	<string name="action_ok">Rendben</string>
+	<string name="action_yes">Igen</string>
+	<string name="action_cancel">Megszünteti</string>
+	<string name="action_done">Kész</string>
+	<string name="action_enable">Engedélyezze</string>
+	<string name="action_ok_got_it">Ok értem</string>
+	<string name="action_ok_buy_now">Rendben, vásárolj most</string>
+	<string name="action_later">A későbbiekben</string>
+	<string name="action_no_thanks">Nem köszönöm</string>
+	<string name="msg_please_wait">Kérlek várj…</string>
+	<string name="msg_restart_to_change_config">Az alkalmazás újraindul, hogy megváltoztassuk a nyelvet</string>
+	<string name="lbl_auto">Kocsi</string>
+	<string name="lbl_language">Nyelv</string>
+	<string name="lbl_select_language">Válasszon nyelvet</string>
+	<string name="lbl_settings">Beállítások</string>
+	<string name="lbl_general">Tábornok</string>
+	<string name="lbl_get_pro_version">Get Pro verzió</string>
+	<string name="lbl_enable_auto_start">Engedélyezze az automatikus indítást</string>
+	<string name="lbl_enable_auto_start_content">A készülék Beállítások automatikus indításkezelője megakadályozza, hogy az alkalmazások a háttérben működjenek. Meg kell adnia ezt az engedélyt, mert ez az alkalmazás a háttérben futhat.</string>
+	<string name="lbl_enable_start_in_background">A háttérbeállítás az eszköz Beállítások részén megakadályozza az alkalmazások nyitott ablakainak beállítását. Meg kell adnia ezt az engedélyt, mert ez az alkalmazás normál módon működhet.</string>
+</resources>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+	<string name="action_ok">හරි</string>
+	<string name="action_yes">ඔව්</string>
+	<string name="action_cancel">අවලංගු කරන්න</string>
+	<string name="action_done">අමාරුයි</string>
+	<string name="action_enable">සක්රීය කරන්න</string>
+	<string name="action_ok_got_it">හරි, ඒක ගන්න</string>
+	<string name="action_ok_buy_now">හරි, දැන් මිලදී ගන්න</string>
+	<string name="action_later">පසු</string>
+	<string name="action_no_thanks">නැ ස්තුතියි</string>
+	<string name="msg_please_wait">කරුණාකර රැඳී සිටින්න…</string>
+	<string name="msg_restart_to_change_config">යෙදුම් වෙනස් කිරීමට දැන් යෙදුම නැවත ආරම්භ වේ</string>
+	<string name="lbl_auto">ඔටෝ</string>
+	<string name="lbl_language">භාෂාව</string>
+	<string name="lbl_select_language">භාෂාව තෝරන්න</string>
+	<string name="lbl_settings">සැකසුම්</string>
+	<string name="lbl_general">ජනරාල්</string>
+	<string name="lbl_get_pro_version">Pro අනුවාදය ලබා ගන්න</string>
+	<string name="lbl_enable_auto_start">ස්වයංක්රීය ආරම්භය සක්රීය කරන්න</string>
+	<string name="lbl_enable_auto_start_content">ඔබගේ උපාංගයේ සැකසීම් වල ස්වයංක්‍රීය ආරම්භක කළමනාකරු යෙදුම් පසුබිමේ ධාවනය වීම වලක්වනු ඇත. මෙම යෙදුම පසුබිමෙන් ධාවනය කළ හැකි බැවින් ඔබ මෙම අවසරය ලබා දිය යුතුය.</string>
+	<string name="lbl_enable_start_in_background">ඔබගේ උපාංගයේ සැකසීම් වල පසුබිමෙන් ආරම්භ කිරීම යෙදුම් විවෘත කවුළු සැකසීම වලක්වනු ඇත. මෙම යෙදුමට සාමාන්‍යයෙන් වැඩ කළ හැකි බැවින් ඔබ මෙම අවසරය ලබා දිය යුතුය.</string>
+</resources>

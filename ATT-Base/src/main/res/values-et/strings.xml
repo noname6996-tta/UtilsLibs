@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+	<string name="action_ok">Okei</string>
+	<string name="action_yes">Jah</string>
+	<string name="action_cancel">Loobu</string>
+	<string name="action_done">Valmis</string>
+	<string name="action_enable">Luba</string>
+	<string name="action_ok_got_it">OK, sain selle</string>
+	<string name="action_ok_buy_now">OK, ostke kohe</string>
+	<string name="action_later">Hiljem</string>
+	<string name="action_no_thanks">Ei aitäh</string>
+	<string name="msg_please_wait">Palun oota…</string>
+	<string name="msg_restart_to_change_config">Rakendus taaskäivitub nüüd, kui soovid muuta keelt</string>
+	<string name="lbl_auto">Automaatne</string>
+	<string name="lbl_language">Keel</string>
+	<string name="lbl_select_language">Vali keel</string>
+	<string name="lbl_settings">Seaded</string>
+	<string name="lbl_general">Üldine</string>
+	<string name="lbl_get_pro_version">Hangi Pro versioon</string>
+	<string name="lbl_enable_auto_start">Luba automaatne käivitamine</string>
+	<string name="lbl_enable_auto_start_content">Automaatkäivituse haldur teie seadme seadetes takistab rakenduste taustal töötamist. Peaksite andma selle loa, kuna see rakendus võib taustal töötada.</string>
+	<string name="lbl_enable_start_in_background">Alustades taustal seadme seadetes, takistatakse rakenduste avatud akna seadeid. Peaksite selle loa andma, sest see rakendus saab normaalselt töötada.</string>
+</resources>

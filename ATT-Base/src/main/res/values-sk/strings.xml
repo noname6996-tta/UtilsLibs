@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+	<string name="action_ok">OK</string>
+	<string name="action_yes">Áno</string>
+	<string name="action_cancel">Zrušiť</string>
+	<string name="action_done">Hotový</string>
+	<string name="action_enable">Umožniť</string>
+	<string name="action_ok_got_it">OK Mám to</string>
+	<string name="action_ok_buy_now">OK, zakúpiť teraz</string>
+	<string name="action_later">Neskôr</string>
+	<string name="action_no_thanks">Nie ďakujem</string>
+	<string name="msg_please_wait">Prosím čakajte…</string>
+	<string name="msg_restart_to_change_config">Aplikácia sa teraz reštartuje, aby sa zmenil jazyk</string>
+	<string name="lbl_auto">Auto</string>
+	<string name="lbl_language">Jazyk</string>
+	<string name="lbl_select_language">Zvoľ jazyk</string>
+	<string name="lbl_settings">Nastavenie</string>
+	<string name="lbl_general">Všeobecný</string>
+	<string name="lbl_get_pro_version">Získajte Pro verziu</string>
+	<string name="lbl_enable_auto_start">Povoliť automatické spustenie</string>
+	<string name="lbl_enable_auto_start_content">Správca automatického spustenia v Nastaveniach vášho zariadenia zabráni spusteniu aplikácií na pozadí. Toto povolenie by ste mali udeliť, aby sa táto aplikácia mohla spúšťať na pozadí.</string>
+	<string name="lbl_enable_start_in_background">Začať na pozadí v Nastaveniach vášho zariadenia zabráni nastaveniu otvoreného okna aplikácie. Toto povolenie by ste mali udeliť, pretože táto aplikácia môže fungovať normálne.</string>
+</resources>
